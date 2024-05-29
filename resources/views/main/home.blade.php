@@ -17,25 +17,25 @@
                                     </div>
                                     <div class="mp-one-title-block">
                                         <div class="mp-one-title">
-                                            Trade and Earn:<br />
-                                            The Future of Investments by<br />
+                                            @lang('Trade and Earn'):<br />
+                                            @lang('The Future of Investments by')<br />
                                             <span class="text--purple">Spark Ai</span>
                                         </div>
                                     </div>
                                     <div class="mp-one-descr">
-                                        Spark Ai is a unique crypto platform designed for comfortable high yield
-                                        trading. It’s the future of investments, test it!
+                                        Spark Ai @lang('is a unique crypto platform designed for comfortable high yield
+                                        trading. Its the future of investments, test it ')
                                     </div>
                                     <div class="mp-one-buttons-block">
                                         <div class="mp-one-buttons">
                                             <div class="mp-one-btn-wrapper">
                                                 <a href="{{ route('register') }}" class="purple-btn mp-one-btn">
-                                                    Create account
+                                                    @lang('Create account')
                                                 </a>
                                             </div>
                                             <div class="mp-one-btn-wrapper">
                                                 <a href="{{ route('login') }}" class="purple-tr-bd-btn mp-one-btn">
-                                                    Sign in
+                                                    @lang('Sign in')
                                                 </a>
                                             </div>
                                         </div>
