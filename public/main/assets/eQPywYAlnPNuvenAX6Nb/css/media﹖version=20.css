@@ -1,0 +1,6583 @@
+/* === DESKTOP FIRST === */
+
+/* xl <= Extra extra large (xxl) */
+@media (max-width : 1399.98px) {
+	.new-dep-inv-plan-arb-item-right {
+		padding-left: 12px;
+	}
+
+	.new-dep-inv-plan-arb-item-left {
+		padding-left: 12px;
+		padding-right: 20px;
+	}
+
+	.new-deposit-block {
+		/* max-width: 640px; */
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.new-dep-inv-plan-arb-item-currency-list {
+		width: 48px;
+		max-width: 48px;
+	}
+
+	.new-dep-inv-plan-arb-item-currency-item+.new-dep-inv-plan-arb-item-currency-item {
+		margin-left: -12px;
+	}
+
+	.field-block--deposit {
+		max-width: 100%;
+	}
+
+	.nd-total-profit-item__title {
+		font-size: 12px;
+	}
+
+	.new-dep-strat-radio-item__title {
+		font-size: 12px;
+	}
+
+	.new-deposit-block {
+		margin-top: 40px;
+	}
+
+	.nd-algo-items {
+		margin-left: -8px;
+		margin-right: -8px;
+	}
+
+	.nd-algo-item-wrapper {
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.nd-algo-item-param-wrapper {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+
+	.nd-algo-item-param__title {
+		font-size: 10px;
+	}
+
+	.nd-prof-items {
+		margin-left: -8px;
+		margin-right: -8px;
+	}
+
+	.nd-prof-item-wrapper {
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.nd-prof-item-param-wrapper {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+
+	.nd-prof-item-param__title {
+		font-size: 10px;
+	}
+
+	.new-deposit-form .field-block--deposit {
+		max-width: 100%;
+	}
+
+	section {
+		padding-top: 40px;
+	}
+
+	.deposits-stats-block {
+		margin-top: 40px;
+	}
+
+	.deposits-block {
+		margin-top: 40px;
+	}
+
+	.deposits-help-block {
+		margin-top: 40px;
+	}
+
+	.deposits-empty-block {
+		padding-top: 38px;
+		padding-bottom: 38px;
+	}
+
+	.balance-manage-block {
+		/* max-width: 640px; */
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 40px;
+	}
+
+	.continue-btn__text {
+		font-size: 14px;
+	}
+
+	.wallet-items-block {
+		margin-top: 40px;
+	}
+
+	.transactions-block {
+		margin-top: 40px;
+	}
+
+	.transaction-item-id-content {
+		display: block;
+	}
+
+	.transaction-item-id-value {
+		padding-left: 0;
+	}
+
+	.transaction-item-status {
+		font-size: 12px;
+		min-width: 105px;
+	}
+
+	.transaction-item-type-subtitle {
+		font-size: 10px;
+	}
+
+	.transaction-item-status-block {
+		padding-left: 8px;
+	}
+
+	.transaction-item-type-block {
+		padding-left: 8px;
+	}
+
+	.transaction-item-info-block {
+		padding-left: 8px;
+	}
+
+	.transaction-item-manage-links-block {
+		padding-left: 8px;
+	}
+
+	.transaction-item-more-info-link-block {
+		padding-left: 8px;
+	}
+
+	.transaction-item-info-date {
+		font-size: 10px;
+	}
+
+	.purple-btn--small {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.affiliate-programm-t-ch-title__text {
+		font-size: 12px;
+	}
+
+	.affiliate-programm-t-ch-bonus {
+		font-size: 12px;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-ch-bonus {
+		font-size: 11px;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-col-heading {
+		margin-left: -20px;
+		width: auto;
+	}
+
+	.affiliate-programm-t-item-title {
+		font-size: 10px;
+		line-height: 10px;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item-content {
+		font-size: 11px;
+		line-height: 10px;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-item-content {
+		font-size: 12px;
+		line-height: 10px;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item::before {
+		width: 500px;
+	}
+
+	.affiliate-programm-table {
+		padding-right: 0;
+	}
+
+	.partner-item-h-left {
+		width: 40%;
+	}
+
+	.partner-item-h-right {
+		width: 60%;
+	}
+
+	.partner-item-h-structure-title {
+		font-size: 10px;
+	}
+
+	.partner-item-h-invested-title {
+		font-size: 10px;
+	}
+
+	.partner-item-h-total-profit-title {
+		font-size: 10px;
+	}
+
+	.partner-item-h-structure-value {
+		font-size: 12px;
+	}
+
+	.partner-item-h-invested-value {
+		font-size: 12px;
+	}
+
+	.partner-item-h-total-profit-value {
+		font-size: 12px;
+	}
+
+
+	.s-affiliate-top-left {
+		padding-top: 40px;
+	}
+
+	.s-affiliate-top-right {
+		padding-top: 40px;
+	}
+
+	.partner-item-h-status {
+		min-width: 85px;
+		font-size: 12px;
+	}
+
+	.partner-item-h-info-block {
+		width: calc(100% - 85px);
+	}
+
+	.transactions-stats-block {
+		margin-top: 40px;
+	}
+
+	.dashboard-top-left {
+		padding-top: 40px;
+	}
+
+	.dashboard-top-center {
+		padding-top: 40px;
+	}
+
+	.dashboard-top-right {
+		padding-top: 40px;
+	}
+
+	.partners-help-title {
+		font-size: 14px;
+	}
+
+	.partners-help-descr {
+		font-size: 12px;
+	}
+
+	.dashboard-balance-block {
+		margin-top: 24px;
+	}
+
+	.deposit-slide .deposit-item-boost-btn {
+		font-size: 9px;
+	}
+
+	.deposit-slide .deposit-item-type__title {
+		font-size: 10px;
+	}
+
+	.deposit-slide .deposit-item-status {
+		font-size: 12px;
+	}
+
+	.db-content-block--deposits {
+		padding: 24px;
+		padding-bottom: 32px;
+	}
+
+	.db-content-block--transactions {
+		padding: 24px;
+	}
+
+	.db-content-block--balance {
+		padding: 24px;
+	}
+
+	.balance-item-wrapper {
+		margin-top: 16px;
+	}
+
+	.no-deposits-block-right {
+		padding-left: 25px;
+	}
+
+	.promo-tab__title {
+		font-size: 10px;
+	}
+
+	.banner-item-link {
+		font-size: 12px;
+	}
+
+	.setting-tab__title {
+		font-size: 10px;
+	}
+
+	.setting-block {
+		padding: 32px;
+	}
+
+	.token-content-center {
+		width: 360px;
+	}
+
+	.token-content-left {
+		width: calc((100% - 360px) / 2);
+	}
+
+	.token-content-right {
+		width: calc((100% - 360px) / 2);
+	}
+
+	.spot-order-t-heading {
+		font-size: 11px;
+		padding-left: 4px;
+	}
+
+	.spot-order-t-item {
+		font-size: 11px;
+	}
+
+	.spot-order-block {
+		padding-left: 12px;
+	}
+
+	.refill-form .btn-wrapper {
+		max-width: 100%;
+	}
+
+	.refill-form .form-agreement {
+		text-align: center;
+	}
+
+
+	.trading-type-info-block {
+		padding: 40px;
+	}
+
+	.trading-type-info-left {
+		padding-right: 24px;
+		width: calc(100% - 400px);
+	}
+
+	.trading-type-info-right {
+		width: 400px;
+	}
+
+	.trading-type-info-video__preview {
+		height: 260px;
+	}
+
+	.trading-type-benefit-item {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+
+	.tr-type-calc-form-data {
+		padding: 32px 24px;
+	}
+
+	.tr-type-calc-form-result {
+		padding: 54px 32px;
+	}
+
+	.soley-premium-block {
+		padding: 40px;
+		padding-bottom: 140px;
+	}
+
+	.soley-premium-block-right {
+		padding-left: 24px;
+	}
+
+	.soley-premium-sign {
+		width: 1030px;
+
+	}
+
+	.other-products-block {
+		padding-left: 40px;
+		padding-right: 40px;
+		padding-bottom: 60px;
+	}
+
+	.recent-news-block {
+		padding: 40px;
+	}
+
+	.recent-news-block-left {
+		width: 400px;
+	}
+
+	.recent-news-block-right {
+		width: calc(100% - 400px);
+		padding-left: 25px;
+	}
+
+	.cta-block {
+		padding: 48px 64px 54px;
+	}
+
+	.cta-content {
+		max-width: 500px;
+	}
+
+	.func-menu-block {
+		width: 690px;
+	}
+	.func-menu-item{
+		margin-right: 20px;
+	}
+
+	.footer-telegram-block-title {
+		display: none;
+	}
+
+	.footer-telegram-btn-block {
+		margin-top: 0;
+	}
+
+	.footer-telegram-block {
+		margin-left: 0;
+		margin-right: 0;
+		max-width: 200px;
+	}
+
+	.footer-mail-block-title {
+		display: none;
+	}
+
+	.footer-mail-block {
+		margin-left: 0;
+		margin-right: 0;
+		max-width: 200px;
+	}
+
+	.footer-telegram-btn {
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+
+	.footer-telegram-btn__icon {
+		width: 24px;
+		height: 24px;
+	}
+
+	.footer-mail-btn {
+		padding-top: 14px;
+		padding-bottom: 14px;
+	}
+
+	.db-topline-left .mobile-panel-btn-block {
+		display: block;
+	}
+
+	.db-topline .products-menu-block {
+		display: none;
+	}
+
+	.db-topline-left .topmenu-block {
+		display: none;
+	}
+
+	.mobile-panel-block {
+		display: block;
+	}
+
+	.db-topmenu-link__text {
+		/* font-size: 9px; */
+	}
+
+	.db-topmenu-block {
+		width: 920px;
+	}
+
+	.db-topline-right {
+		min-width: 250px;
+	}
+
+	.db-topline-left {
+		min-width: 250px;
+	}
+
+	.news-item-img {}
+
+	.news-single-top {
+		padding-right: 32px;
+		padding-bottom: 40px;
+		padding-left: 40px;
+	}
+
+	.news-single-top-top {
+		margin-left: -40px;
+	}
+
+	.news-single-top-content-left {
+		width: calc(100% - 340px);
+	}
+
+	.news-single-top-content-right {
+		width: 340px;
+	}
+
+	.section-contact {
+		padding-top: 40px;
+	}
+
+	.affiliate-front-info-left {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.affiliate-front-programm-item {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+
+	.affiliate-front-programm-items-block {
+		margin-top: 16px;
+	}
+
+	.affiliate-front-partners-block {
+		margin-top: 64px;
+	}
+
+	.affil-info-prog-table-block {
+		margin-top: 40px;
+		padding: 32px;
+	}
+
+	.affiliate-reward-block {
+		margin-top: 40px;
+		padding: 32px;
+	}
+
+	.affiliate-front-partner-item-wrapper {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.affiliate-front-partner-items {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+
+	.faq-top-content {
+		padding: 40px;
+	}
+
+	.ask-question-block {
+		padding: 40px 32px;
+	}
+
+
+	.fees-top-content {
+		padding: 40px;
+	}
+
+	.fees-table-block {
+		padding-left: 32px;
+		padding-right: 32px;
+	}
+
+	.policy-block {
+		padding: 40px;
+	}
+
+
+	.mp-one-left {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+
+	.mp-about-block {
+		padding: 40px;
+	}
+
+	.mp-about-left {
+		padding-right: 24px;
+		width: calc(100% - 400px);
+	}
+
+	.mp-about-right {
+		width: 400px;
+	}
+
+	.mp-about-video__preview {}
+
+	.mp-soley-benefit-item {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+
+	.mp-trading-type-item-right {
+		padding-left: 24px;
+		padding-right: 0;
+	}
+
+	.mp-trading-type-item {
+		align-items: flex-start;
+	}
+
+	.academy-top-block {
+		padding: 40px;
+	}
+
+	.academy-top-right {
+		padding-left: 24px;
+	}
+
+	.academy-video-lesson-item-video__preview {
+		height: 200px;
+	}
+
+
+	.sly-top-info-block {
+		padding: 40px;
+	}
+
+	.sly-top-info-left {
+		padding-right: 24px;
+		width: calc(100% - 400px);
+	}
+
+	.sly-top-info-right {
+		width: 400px;
+	}
+
+	.sly-top-info-video__preview {
+		height: 260px;
+	}
+	.tr-type-calc-form-result{
+		padding: 32px;
+	}
+	.tr-type-calc-form-data{
+		padding: 32px;
+	}
+
+}
+
+/* lg <= Extra large (xl) */
+@media (max-width : 1199.98px) {
+
+	.func-menu-block {
+		width: 600px;
+	}
+
+	.topmenu-block {
+		/* margin-right: 32px; */
+	}
+
+	.topline-updates-block {
+		margin-right: 55px;
+	}
+
+	.topline-lang-panel-title {
+		display: none;
+	}
+
+	.func-menu .priority-nav__dropdown-toggle {
+		display: block;
+	}
+
+	.topline-right .topline-lang-dropdown {
+		left: auto;
+		right: 0;
+		transform: translateX(0);
+		margin-left: 0;
+	}
+
+	header::before {
+		width: 1023px;
+		background-size: 100% 100%;
+	}
+
+	.footer-top-right {
+		padding-left: 0;
+	}
+
+	.footer-middle-right {
+		padding-left: 0;
+	}
+
+	.footer-bottom-right {
+		padding-left: 0;
+	}
+
+	.footer-lang-dropdown {
+		left: auto;
+		margin-left: 0;
+		right: 0;
+		transform: none;
+	}
+
+	.db-topmenu-block {
+		width: 760px;
+	}
+
+	.db-toppanel {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.db-topline-left .topmenu-block {
+		margin-right: 60px;
+	}
+
+	.db-topline .logo-wrapper {
+		margin-right: 16px;
+	}
+
+	.db-topline .products-menu-block {
+		margin-right: 16px;
+	}
+
+	.toppanel-left {
+		padding-right: 30px;
+	}
+
+	.toppanel-right {
+		padding-left: 30px;
+	}
+
+	.s-registration-block-left {
+		width: calc((100% - 546px)/2);
+	}
+
+	.s-registration-block-center {
+		width: 546px;
+	}
+
+	.s-registration-block-right {
+		width: calc((100% - 546px)/2);
+	}
+
+	.select-phone-country.bootstrap-select>.dropdown-menu {
+		min-width: 466px;
+	}
+
+
+	.new-dep-inv-plan-arb-item-percent {
+		font-size: 16px;
+	}
+
+	.new-dep-inv-plan-arb-item-time {
+		font-size: 14px;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-item__title {
+		font-size: 12px;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-item__rate {
+		font-size: 12px;
+	}
+
+	.currency-radio-item-inner {
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.new-deposit-block {
+		max-width: 720px;
+	}
+
+	.deposits-help-block {
+		max-width: 100%;
+	}
+
+	.deposits-help {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.deposits-help-top {
+		display: flex;
+		align-items: center;
+		padding-right: 12px;
+	}
+
+	.deposits-help-content {
+		padding-top: 0;
+		padding-left: 16px;
+		width: calc(100% - 48px);
+	}
+
+	.deposits-help-btn-block {
+		margin-top: 0;
+	}
+
+	.deposits-help-title {
+		text-align: left;
+	}
+
+	.deposits-help-descr {
+		text-align: left;
+		margin-top: 6px;
+	}
+
+
+	.balance-manage-block {
+		max-width: 720px;
+	}
+
+	.transaction-item-more-info-tooltip {
+		inset: 40px -30px auto auto !important;
+	}
+
+	.transaction-item-more-info-tooltip::before {
+		transform: rotate(90deg);
+		left: auto;
+		right: 50px;
+		top: -17px;
+		background-color: #9B41FE;
+	}
+
+	.affiliate-programm-t-col--next-level {
+		width: 35%;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-item {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-item-content {
+		font-size: 10px;
+	}
+
+	.affiliate-programm-t-col--current-level {
+		width: 65%;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item-content {
+		font-size: 10px;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-ch-title {
+		max-width: 90px;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-ch-bonus {
+		padding-left: 14px;
+	}
+
+	.affiliate-programm-t-ch-bonus::before {
+		left: 0;
+		top: 0;
+		right: auto;
+		transform: none;
+		width: 12px;
+		height: 12px;
+		mask-size: 12px 12px;
+		-webkit-mask-size: 12px 12px;
+	}
+
+	.affiliate-programm-t-col-heading {
+		align-items: flex-start;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item::before {
+		width: 420px;
+	}
+
+	.s-affiliate-bottom-left {
+		margin-right: -26px;
+	}
+
+	.s-affiliate-bottom-center {
+		margin-left: 26px;
+	}
+
+	.affiliate-programm-t-ch-bonus {
+		display: block;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-ch-bonus {
+		text-align: right;
+	}
+
+	.affiliate-programm-t-ch-bonus-value {
+		padding-left: 0;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-ch-bonus-value {
+		padding-left: 0;
+	}
+
+	.s-affiliate-bottom-left .partners-help-block {
+		display: block;
+	}
+
+	.dashboard-top-center .deposits-empty-block {
+		background-position: bottom -20px left -30px;
+		background-size: 700px auto;
+	}
+
+	.deposit-slide .deposit-item-info-period {
+		font-size: 14px;
+	}
+
+	.deposit-slider {
+		margin-left: -4px;
+		margin-right: -4px;
+	}
+
+	.deposit-slide {
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.deposit-slide .deposit-item-bottom {
+		font-size: 12px;
+	}
+
+	.deposit-slide .deposit-item-boost-btn-block {
+		margin-left: -10px;
+		margin-right: -10px;
+		position: relative;
+		z-index: 2;
+	}
+
+	.deposit-slide .deposit-item {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.db-content-block--transactions {
+		flex-wrap: wrap;
+	}
+
+	.dashboard-transactions-block-left {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.dashboard-transactions-block-right {
+		padding-top: 24px;
+		width: 100%;
+	}
+
+	.dashboard-sly-token-block {
+		display: flex;
+	}
+
+	.dashboard-sly-token-block-top {
+		width: 270px;
+	}
+
+	.dashboard-sly-token-block-bottom {
+		width: calc(100% - 270px);
+		padding-left: 106px;
+	}
+
+	.dashboard-sly-token-block-top .dashboard-sly-token-btn-block {
+		display: block;
+	}
+
+	.dashboard-sly-token-block-bottom .dashboard-sly-token-btn-block {
+		display: none;
+	}
+
+	.deposit-slider .swiper-button-next {
+		right: 4px;
+	}
+
+	.deposit-slider .swiper-button-prev {
+		right: 44px;
+	}
+
+	.deposit-create-item-wrapper {
+		width: 50%;
+	}
+
+	.deposit-create-item-top {
+		display: flex;
+		align-items: center;
+	}
+
+	.deposit-create-item-title {
+		margin-top: 0;
+		padding-left: 10px;
+	}
+
+	.deposit-create-item {
+		padding-top: 16px;
+		padding-bottom: 16px;
+	}
+
+	.deposit-create-items {
+		height: auto;
+		margin-top: -48px;
+	}
+
+	.transaction-empty-items-block {
+		max-width: 736px;
+	}
+
+	.deposit-create-item-title {
+		text-align: left;
+	}
+
+	.promo-pdf-item-title {
+		font-size: 12px;
+	}
+
+	.promo-pdf-item-descr {
+		font-size: 12px;
+	}
+
+	.promo-video-item-content {
+		max-width: 280px;
+	}
+
+	.promo-video-item-link {
+		font-size: 12px;
+	}
+
+	.promo-video-item-title {
+		font-size: 12px;
+	}
+
+	.promo-video-item-size {
+		font-size: 12px;
+	}
+
+
+	.token-content-center {
+		width: 300px;
+	}
+
+	.token-content-left {
+		width: calc((100% - 300px) / 2);
+	}
+
+	.token-content-right {
+		width: calc((100% - 300px) / 2);
+	}
+
+	.spot-order-t-i-col {
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.spot-order-t-h-col--price {
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.trading-type-info-right {
+		width: 335px;
+	}
+
+	.trading-type-info-left {
+		width: calc(100% - 335px);
+		padding-right: 25px;
+	}
+
+	.trading-type-info-video__icon {
+		height: 80px;
+		margin-bottom: 0;
+	}
+
+	.trading-type-info-video__icon .image {
+		height: 100%;
+		width: auto;
+	}
+
+	.trading-type-info-video__preview {
+		height: 210px;
+	}
+
+	.trading-type-info-video__play-icon {
+		width: 28px;
+		height: 28px;
+	}
+
+	.trading-type-info-video__play-icon::before {
+		width: 12px;
+		height: 12px;
+		mask-size: 12px 12px;
+		-webkit-mask-size: 12px 12px;
+	}
+
+	.trading-type-info-video__play-title {
+		font-size: 10px;
+		margin-top: 8px;
+	}
+
+	.trading-type-info-benefit-items-block {
+		margin-right: -50px;
+	}
+
+	.trading-type-benefit-item-wrapper {
+		width: 50%;
+	}
+
+	.trading-type-benefit-item {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	.trading-type-benefit-item__descr {
+		max-width: 376px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.inv-plan-tab-slide {
+		padding-left: 6px;
+		padding-right: 6px;
+	}
+
+	.inv-plan-tab-slider-block {
+		max-width: 900px;
+	}
+
+	.inv-plan-tab-slider {
+		padding-left: 52px;
+		padding-right: 52px;
+	}
+
+	.inv-plan-items {
+		margin-right: -12px;
+		margin-left: -12px;
+	}
+
+	.inv-plan-item-wrapper {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+
+	.currency-icon-radio-item-wrapper:nth-child(n+9) {
+		/* display: none; */
+	}
+
+	.tr-type-calc-form-result-btn {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.tr-type-calc-form-data {
+		border-radius: 60px;
+	}
+
+	.soley-premium-block-left {
+		width: 500px;
+	}
+
+	.soley-premium-block-right {
+		width: calc(100% - 500px);
+		padding-top: 30px;
+	}
+
+	.soley-premium-graph-block {
+		margin-left: -60px;
+	}
+
+	.soley-premium-sign {
+		max-width: 870px;
+		bottom: -33px;
+	}
+
+	.other-product-item__btn {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+
+	.other-product-item-inner {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+
+	.recent-news-block-left {
+		width: 335px;
+	}
+
+	.recent-news-block-right {
+		width: calc(100% - 335px);
+		padding-left: 25px;
+	}
+
+	.recent-news-item__img {
+		width: 136px;
+		height: 96px;
+	}
+
+	.recent-news-item__content {
+		width: calc(100% - 136px);
+		padding-left: 25px;
+	}
+
+	.cta-content {
+		max-width: 390px;
+	}
+
+	.func-menu-item {
+		margin-right: 8px;
+	}
+
+	.func-menu-block {
+		width: 490px;
+	}
+
+	.top-registration-btn-block {
+		padding-left: 8px;
+	}
+
+	.section-trading-type-info {
+		padding-top: 40px;
+	}
+
+	.topmenu-item {
+		margin-left: 12px;
+	}
+
+	.topmenu-item--soley-premium {
+		margin-left: 42px;
+	}
+
+	.footer-middle {
+		padding-top: 28px;
+		padding-bottom: 28px;
+	}
+
+	.footer-info {
+		max-width: 180px;
+	}
+
+	.footer-menu>ul>li {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+
+	.footer-menu>ul {
+		margin-left: -5px;
+		margin-right: -5px;
+	}
+
+	.news-items-block {
+		margin-top: 28px;
+	}
+
+	.news-single-top-content-right {
+		width: 250px;
+	}
+
+	.news-single-top-content-left {
+		width: calc(100% - 250px);
+	}
+
+	.news-single-top {
+		padding-right: 24px;
+		padding-bottom: 32px;
+		padding-left: 30px;
+	}
+
+	.news-single-top-top {
+		margin-left: -30px;
+	}
+
+	.s-contact-block-right {
+		padding-top: 48px;
+	}
+
+	.company-item {
+		padding: 24px;
+		text-align: center;
+	}
+
+	.company-item-top {
+		justify-content: center;
+	}
+
+	.company-item-top-content {
+		width: auto;
+		max-width: calc(100% - 40px);
+		text-align: left;
+	}
+
+	.affiliate-front-info-video-block {
+		padding: 24px;
+		border-radius: 40px;
+	}
+
+	.affiliate-front-info-video {
+		border-radius: 32px;
+	}
+
+	.affiliate-front-info-video__preview {
+		border-radius: 32px;
+	}
+
+	.affiliate-front-info-video__preview .image {
+		border-radius: 32px;
+	}
+
+	.affiliate-front-info-left {
+		padding-top: 0;
+		padding-bottom: 0;
+		max-width: none;
+	}
+
+	.affiliate-front-info-title-block {
+		margin-right: -24px;
+	}
+
+	.affiliate-front-programm-item {
+		padding-left: 48px;
+		padding-right: 48px;
+	}
+
+	.affil-info-prog-t-h-cells {
+		margin-right: -2px;
+		margin-left: -2px;
+	}
+
+	.affil-info-prog-t-i-cells {
+		margin-right: -2px;
+		margin-left: -2px;
+	}
+
+	.affil-info-prog-t-h-cell {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+
+	.affil-info-prog-t-i-cell {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+
+	.affil-info-prog-t-i-cell__value {
+		font-size: 12px;
+	}
+
+	.affil-info-prog-t-i-cell--title .affil-info-prog-t-i-cell__value {
+		font-size: 14px;
+	}
+
+	.affiliate-reward-t-h-cell {
+		width: 23%;
+	}
+
+	.affiliate-reward-t-item-cell {
+		width: 23%;
+	}
+
+	.affiliate-reward-t-h-cell--bonuses {
+		width: 31%;
+	}
+
+	.affiliate-reward-t-i-cell--bonuses {
+		width: 31%;
+	}
+
+	.faq-top-search-form-btn {
+		width: 180px;
+	}
+
+	.faq-top-search-form-field {
+		width: calc(100% - 180px);
+	}
+
+	.faq-sort-items-block {
+		margin-top: 16px;
+	}
+
+	.faq-sort-item-wrapper {
+		width: 33.33%;
+	}
+
+	.faq-items-block {
+		max-width: 100%;
+		margin-top: 32px;
+	}
+
+
+	.fees-top-search-form-btn {
+		width: 180px;
+	}
+
+	.fees-top-search-form-field {
+		width: calc(100% - 180px);
+	}
+
+	.fees-t-h-left {
+		width: 18%;
+	}
+
+	.fees-t-i-left {
+		width: 18%;
+	}
+
+
+	.fees-t-h-right {
+		width: 82%;
+	}
+
+	.fees-t-i-right {
+		width: 82%;
+	}
+
+	.fees-t-h-cell--protocol {
+		width: 18%;
+	}
+
+	.fees-t-h-cell--min-refill {
+		width: 17%;
+	}
+
+	.fees-t-h-cell--min-withdrawal {
+		width: 22%;
+	}
+
+	.fees-t-h-cell--withdrawal {
+		width: 18%;
+	}
+
+	.fees-t-h-cell--sly {
+		width: 11%;
+	}
+
+	.policy-block {
+		padding: 32px;
+	}
+
+
+	.mp-one-left {
+		padding-top: 0;
+		padding-bottom: 0;
+		max-width: none;
+	}
+
+	.mp-one-title-block {
+		margin-right: -24px;
+	}
+
+
+	.mp-about-right {
+		width: 335px;
+	}
+
+	.mp-about-left {
+		width: calc(100% - 335px);
+		padding-right: 25px;
+	}
+
+	.mp-about-video__icon {
+		height: 80px;
+		margin-bottom: 0;
+	}
+
+	.mp-about-video__icon .image {
+		height: 100%;
+		width: auto;
+	}
+
+	.mp-about-video__preview {}
+
+	.mp-about-video__play-icon {
+		width: 48px;
+		height: 48px;
+	}
+
+	.mp-about-video__play-icon::before {
+		width: 24px;
+		height: 24px;
+		mask-size: 24px 24px;
+		-webkit-mask-size: 24px 24px;
+	}
+
+	.mp-about-video__play-title {
+		font-size: 10px;
+		margin-top: 8px;
+	}
+
+	.mp-about-benefit-items-block {
+		margin-right: -50px;
+	}
+
+	.mp-one-circle-menu-link {
+		border-radius: 20px;
+		padding: 10px;
+		min-width: 80px;
+	}
+
+	.mp-one-circle-menu-link__title {
+		font-size: 8px;
+	}
+
+	.mp-one-circle-menu-link__icon {
+		height: 15px;
+	}
+
+	.mp-one-circle-menu-link__icon .image {
+		height: 15px;
+	}
+
+	.mp-one-right {
+		margin-left: -15px;
+		padding-top: 75px;
+	}
+
+	.mp-one-title-block {
+		margin-right: 0;
+	}
+
+	.mp-one-circle-menu-block {
+		padding-left: 70px;
+		padding-right: 70px;
+	}
+
+	.mp-one-circle-menu-link {
+		padding: 6px;
+		border-radius: 12px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon {
+		height: 9px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon .image {
+		height: 9px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__title {
+		font-size: 7px;
+	}
+
+	.mp-one-circle-menu-link__soon-block {
+		margin-top: 4px;
+	}
+
+	.mp-one-circle-menu-link__soon {
+		font-size: 5px;
+		padding: 3px 4px;
+	}
+
+	.mp-one-circle-menu-link--soon {
+		min-width: 50px;
+	}
+
+	.mp-soley-benefit-item-wrapper {
+		width: 50%;
+	}
+
+	.mp-soley-benefit-item {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	.mp-trading-type-item-left {
+		width: 450px;
+	}
+
+	.mp-trading-type-item-right {
+		width: calc(100% - 450px);
+	}
+
+	.mp-trading-type-item-video-block {
+		padding: 32px;
+		border-radius: 50px;
+	}
+
+	.mp-trading-type-item-soon-label {
+		font-size: 9px;
+		top: 17px;
+	}
+
+	.join-item-wrapper {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+
+	.join-items {
+		margin-left: -12px;
+		margin-right: -12px;
+	}
+
+	.intro-sly-block {
+		padding-left: 32px;
+		padding-right: 32px;
+	}
+
+	.ps-item-wrapper {
+		width: 25%;
+	}
+
+	.ps-item-wrapper:nth-child(n+13) {
+		display: none;
+	}
+
+	.mp-one-right {
+		margin-left: 0;
+	}
+
+	.about-top-video-block {
+		padding: 24px;
+		border-radius: 40px;
+	}
+
+	.about-top-video {
+		border-radius: 24px;
+	}
+
+	.about-top-video__preview {
+		border-radius: 24px;
+	}
+
+	.about-top-video__preview .image {
+		border-radius: 24px;
+	}
+
+	.team-item-img {
+		/* height: 430px; */
+	}
+
+	.academy-top-right {
+		display: none;
+	}
+
+	.academy-top-left {
+		width: 100%;
+	}
+
+	.academy-top-left .academy-top-info {
+		display: block;
+	}
+
+	.academy-top-info {
+		margin-top: 16px;
+	}
+
+
+
+	.sly-top-info-right {
+		width: 335px;
+	}
+
+	.sly-top-info-left {
+		width: calc(100% - 335px);
+		padding-right: 25px;
+	}
+
+	.sly-top-info-video__icon {
+		height: 80px;
+		margin-bottom: 0;
+	}
+
+	.sly-top-info-video__icon .image {
+		height: 100%;
+		width: auto;
+	}
+
+	.sly-top-info-video__preview {
+		height: 210px;
+	}
+
+	.sly-top-info-video__play-icon {
+		width: 28px;
+		height: 28px;
+	}
+
+	.sly-top-info-video__play-icon::before {
+		width: 12px;
+		height: 12px;
+		mask-size: 12px 12px;
+		-webkit-mask-size: 12px 12px;
+	}
+
+	.sly-top-info-video__play-title {
+		font-size: 10px;
+		margin-top: 8px;
+	}
+
+	.sly-top-info-benefit-items-block {
+		margin-right: -50px;
+	}
+
+	.soley-premium-block--top {}
+
+	.soley-premium-block--top .soley-premium-block-left {
+		width: 416px;
+	}
+
+	.soley-premium-block--top .soley-premium-block-right {
+		width: calc(100% - 416px);
+		padding-left: 20px;
+	}
+
+	.soley-premium-block--top .soley-premium-title{
+		font-size: 32px;
+	}
+	.sly-top-info-benefit-items-descr{
+		font-size: 14px;
+	}
+
+	.contact-info-block .soley-what-new-link-block{
+		text-align: center;
+	}
+	.contact-info-title-block{
+		text-align: center;
+	}
+	.contact-info-descr{
+		text-align: center;
+	}
+	.contact-question-links-title{
+		text-align: center;
+	}
+
+	/* .tr-type-calc-form-left{
+		width: 50%;
+	}
+	.tr-type-calc-form-right{
+		width: 50%;
+	}
+	.tr-type-calc-form::after{
+		left: 50%;
+	} */
+
+
+	.tr-type-calc-form-data-fieldset .field-title-min-max-block{
+		display: none;
+	}
+	.tr-type-calc-form-data-fieldset .field-title-min-max-block--bottom{
+		display: flex;
+	}
+
+	.tr-type-calc-form-result-item__title{
+		font-size: 14px;
+	}
+	.tr-type-calc-form-result-item__descr{
+		font-size: 10px;
+	}
+	.tr-type-calc-form-result-btn{
+		min-width: 120px;
+	}
+}
+
+/* md <= Large (lg) */
+@media (max-width : 991.98px) {
+	.func-menu-block {
+		width: 430px;
+	}
+
+	.toppanel-center {
+		display: none;
+	}
+
+	.toppanel .logo-wrapper {
+		/* display: none; */
+		padding-right: 16px;
+	}
+
+	.topline-left {
+		display: none;
+	}
+
+	.func-menu {
+		justify-content: flex-start;
+	}
+
+	.func-menu-item {
+		margin-right: 8px;
+	}
+
+	.topline-left .topmenu-block {
+		display: none;
+	}
+
+	.topline-left .topline-updates-block {
+		display: none;
+	}
+
+	.topline .logo-wrapper {
+		display: block;
+	}
+
+	.topline-left .mobile-panel-btn-block {
+		display: block;
+	}
+
+	.func-menu .priority-nav__wrapper {
+		margin-left: 8px;
+	}
+
+	.func-menu-item:last-child {
+		/* margin-right: 0; */
+	}
+
+	.func-menu .priority-nav__wrapper {
+		margin-left: 0;
+	}
+
+	header::before {
+		width: 748px;
+		height: 91px;
+		background-size: 100% 100%;
+		top: -10px;
+	}
+
+	.mobile-panel-block {
+		display: block;
+	}
+
+	.footer-top {
+		padding-top: 24px;
+	}
+
+	.footer-top-left .footer-info {
+		display: block;
+	}
+
+	.footer-middle {
+		padding-top: 30px;
+		padding-bottom: 36px;
+	}
+
+	.footer-info {
+		/* max-width: 155px; */
+	}
+
+	.footer-func-menu-block {
+		max-width: 380px;
+	}
+
+	.footer-middle-alt-block {
+		display: block;
+	}
+
+	.footer-menu {
+		/* max-width: 160px; */
+	}
+
+	.footer-bottom-right {
+		padding-top: 16px;
+	}
+
+	.footer-bottom {
+		padding-top: 18px;
+	}
+
+	footer {
+		padding-top: 167px;
+	}
+
+	footer::before {
+		width: 768px;
+		height: 124px;
+		top: 51px;
+	}
+
+	.db-topmenu-block {
+		width: 530px;
+	}
+
+	.db-toppanel {
+		padding-right: 6px;
+	}
+
+	.db-topline-left .topmenu-block {
+		display: none;
+	}
+
+	.db-topline-left .mobile-panel-btn-block {
+		display: block;
+	}
+
+	.db-topline .products-menu-block {
+		display: none;
+	}
+
+	.db-topline-right .topline-lang-panel-block {
+		/* margin-left: 165px; */
+	}
+
+	.topline-logout-btn__icon {
+		display: block;
+	}
+
+	.topline-logout-btn__text {
+		display: none;
+	}
+
+	.topline-logout-btn-block {
+		padding-left: 4px;
+	}
+
+	.topline-logout-btn {
+		box-shadow: none;
+		padding: 2px;
+		background-color: transparent;
+	}
+
+	.db-topline-right {
+		min-width: 180px;
+		padding-left: 8px;
+	}
+
+	.db-topline-left {
+		min-width: 180px;
+		padding-right: 8px;
+	}
+
+	.toppanel {
+		padding-left: 14px;
+		padding-right: 14px;
+	}
+
+	.s-registration-block-left {
+		display: none;
+	}
+
+	.s-registration-block {
+		width: 100%;
+		max-width: 576px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.s-registration-block-center {
+		width: 100%;
+		max-width: 576px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.s-registration-block-right {
+		width: 100%;
+		max-width: 576px;
+		margin-right: auto;
+		margin-left: auto;
+		padding-left: 0;
+	}
+
+	.help-create-acc-block {
+		margin-top: 30px;
+		max-width: 100%;
+		padding: 22px;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.help-create-acc-btn-block {
+		margin-top: 0;
+		width: 116px;
+	}
+
+	.help-create-content {
+		display: flex;
+		align-items: center;
+	}
+
+	.help-create-acc-title {
+		margin-top: 0;
+		padding-left: 16px;
+		max-width: 135px;
+		text-align: left;
+	}
+
+	.select-phone-country.bootstrap-select>.dropdown-menu {
+		min-width: 496px;
+	}
+
+	.new-deposit-block {
+		max-width: 100%;
+	}
+
+	.new-dep-inv-plan-arb-item-right {
+		padding-left: 16px;
+	}
+
+	.new-dep-inv-plan-arb-item-left {
+		padding-left: 16px;
+	}
+
+	.new-dep-inv-plan-arb-item-percent {
+		font-size: 16px;
+	}
+
+	.new-dep-inv-plan-arb-item-time {
+		font-size: 14px;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-item__title {
+		font-size: 12px;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-item__rate {
+		font-size: 12px;
+	}
+
+	.balance-manage-block {
+		max-width: 100%;
+	}
+
+	.transaction-item-info-amount {
+		font-size: 12px;
+	}
+
+	.transaction-item-info-block {
+		min-width: 160px;
+	}
+
+	.referral-link-field-block {
+		margin-top: 0;
+	}
+
+	.affiliate-promo-items-block {
+		display: none;
+	}
+
+	.s-affiliate-top-right {
+		padding-top: 30px;
+	}
+
+	.db-content-block--promo {
+		min-height: 0;
+	}
+
+	.s-affiliate-bottom-left {
+		margin-right: 0;
+	}
+
+	.s-affiliate-bottom-center {
+		margin-left: 0;
+	}
+
+	.s-affiliate-bottom-left .partners-help-block {
+		display: none;
+	}
+
+	.s-affiliate-top-left {
+		padding-top: 24px;
+	}
+
+	.s-affiliate-bottom-left {
+		height: 100%;
+	}
+
+	.partners-stats-block {
+		min-height: 100%;
+	}
+
+
+	.partners-help-block {
+		max-width: 100%;
+	}
+
+	.partners-help {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.partners-help-top {
+		display: flex;
+		align-items: center;
+		padding-right: 12px;
+	}
+
+	.partners-help-content {
+		padding-top: 0;
+		padding-left: 16px;
+		width: calc(100% - 48px);
+	}
+
+	.partners-help-btn-block {
+		margin-top: 0;
+	}
+
+	.partners-help-title {
+		text-align: left;
+	}
+
+	.partners-help-descr {
+		text-align: left;
+		margin-top: 6px;
+	}
+
+	.s-affiliate-bottom-right {
+		padding-top: 40px;
+	}
+
+	.dashboard-top-left {
+		padding-top: 32px;
+		height: 100%;
+	}
+
+	.dashboard-top-left .earning-stats-block {
+		min-height: 100%;
+	}
+
+	.dashboard-top-center {
+		padding-top: 32px;
+	}
+
+	.balance-item-wrapper {
+		width: 25%;
+	}
+
+	.balance-item-wrapper:nth-child(n+9) {
+		display: none;
+	}
+
+	.dashboard-deposits-block .partners-help-block {
+		display: block;
+		margin-top: 24px;
+	}
+
+	.dashboard-affiliate-block-left {
+		flex-wrap: wrap;
+	}
+
+	.dashboard-transactions-block {
+		margin-top: 24px;
+	}
+
+	.dashboard-transactions-block .transaction-item {
+		padding-left: 14px;
+		padding-right: 14px;
+	}
+
+	.dashboard-affiliate-block-right {
+		padding-top: 24px;
+	}
+
+	.dashboard-affiliate-block-left {
+		padding-top: 24px;
+	}
+
+	.dashboard-affiliate-block .affiliate-programm-t-col--current-level .affiliate-programm-t-item::before {
+		width: 670px;
+	}
+
+	.dashboard-sly-token-block-bottom {
+		padding-left: 66px;
+	}
+
+	.dashboard-transactions-block-left {
+		border-radius: 40px;
+		box-shadow: 0px 1px 1px 1px #FFF inset;
+		padding: 24px;
+		background: linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.00) 100%), rgba(255, 255, 255, 0.30);
+	}
+
+	.db-content-block--transactions {
+		background: none;
+		box-shadow: none;
+		padding: 0;
+	}
+
+	.no-deposits-block {
+		flex-wrap: wrap;
+	}
+
+	.no-deposits-block-left {
+		width: 100%;
+	}
+
+	.no-deposits-block-right {
+		width: 100%;
+		padding-top: 16px;
+		padding-left: 0;
+	}
+
+	.deposit-create-items {
+		margin-top: -16px;
+	}
+
+	.transaction-empty-item-img {
+		display: none;
+	}
+
+	.transaction-empty-item-img-mobile {
+		display: block;
+	}
+
+	.promo-pdf-item-img-block {
+		padding-left: 16px;
+	}
+
+	.banner-item-img-block {
+		padding-left: 16px;
+	}
+
+	.banner-item-left {
+		width: 316px;
+	}
+
+	.banner-item-right {
+		width: calc(100% - 316px);
+		padding-left: 16px;
+	}
+
+	.promo-tab-content {
+		padding-bottom: 0;
+	}
+
+	.token-top-param-item-wrapper {
+		display: none;
+	}
+
+	.token-top-param-item-wrapper:first-child {
+		display: block;
+	}
+
+	.token-content-block {
+		margin-top: 24px;
+	}
+
+	.token-content {
+		flex-wrap: wrap;
+	}
+
+	.token-content-center {
+		width: 100%;
+		order: 1;
+	}
+
+	.token-content-left {
+		width: 50%;
+		padding-right: 12px;
+		order: 2;
+		padding-top: 24px;
+	}
+
+	.token-content-right {
+		width: 50%;
+		padding-left: 12px;
+		order: 3;
+		padding-top: 24px;
+	}
+
+	.trading-type-info {
+		flex-wrap: wrap;
+	}
+
+	.trading-type-info-left {
+		width: 100%;
+		padding-right: 0;
+		max-width: 500px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.trading-type-info-right {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 40px;
+	}
+
+	.trading-type-subtitle-block {
+		display: flex;
+		justify-content: center;
+	}
+
+	.trading-type-title-block {
+		text-align: center;
+	}
+
+	.trading-type-descr {
+		text-align: center;
+	}
+
+	.trading-type-info-benefit-items-block {
+		margin-left: -25px;
+		margin-right: -25px;
+	}
+
+	.trading-type-info-benefit-items {
+		justify-content: center;
+	}
+
+	.trading-type-buttons {
+		justify-content: center;
+	}
+
+	.trading-type-info-video-block {
+		max-width: 335px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.inv-plan-tab-slider {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	.tr-type-calc-form-left {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.tr-type-calc-form-right {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 32px;
+	}
+
+	.tr-type-calc-form {
+		flex-wrap: wrap;
+	}
+
+	.tr-type-calc-form-result-subtitle-block {
+		display: flex;
+		justify-content: center;
+	}
+
+	.tr-type-calc-form-result-title-block {
+		text-align: center;
+	}
+
+	.tr-type-calc-form-result-item-wrapper {
+		width: 25%;
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.tr-type-calc-form-result-items {
+		margin-left: -4px;
+		margin-right: -4px;
+	}
+
+	.tr-type-calc-form-result-item__title {
+		font-size: 14px;
+	}
+
+	.tr-type-calc-form-result-note {
+		text-align: center;
+		margin-top: 32px;
+	}
+
+	.tr-type-calc-form-result-buttons {
+		justify-content: center;
+	}
+
+	.section-soley-premium {
+		/* display: none; */
+	}
+
+	.other-product-item-wrapper {
+		width: 50%;
+	}
+
+	.recent-news-block {
+		flex-wrap: wrap;
+	}
+
+	.recent-news-block-left {
+		width: 100%;
+	}
+
+	.recent-news-block-right {
+		padding-left: 0;
+		width: 100%;
+		padding-top: 40px;
+	}
+
+	.recent-news-content-subtitle-block {
+		display: flex;
+		justify-content: center;
+	}
+
+	.recent-news-content-title-block {
+		text-align: center;
+	}
+
+	.recent-news-content-title {
+		font-size: 40px;
+	}
+
+	.recent-news-content-descr {
+		text-align: center;
+	}
+
+	.recent-news-content-all-btn-block {
+		display: none;
+	}
+
+	.recent-news-content-bottom .soc-links-title {
+		text-align: center;
+	}
+
+	.recent-news-content-bottom .soc-links {
+		justify-content: center;
+	}
+
+	.recent-news-item__img {
+		width: 260px;
+		height: 185px;
+	}
+
+	.recent-news-item__content {
+		width: calc(100% - 260px);
+	}
+
+	.cta-block {
+
+		background: url('../images/theme/cta-block-bg.png') left 95% top 80px no-repeat, linear-gradient(180deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.00) 100%), rgba(255, 255, 255, 0.80);
+		background-size: 460px auto, auto, auto;
+	}
+
+	.other-products-block {
+		box-shadow: 0px 1px 1px 0px #FFF inset;
+		background: linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.00) 100%), rgba(255, 255, 255, 0.30);
+	}
+
+	.soley-premium-block {
+		flex-wrap: wrap;
+	}
+
+	.soley-premium-block-left {
+		width: 100%;
+	}
+
+	.soley-premium-block-right {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 20px;
+	}
+
+	.soley-premium-graph-block {
+		margin-left: auto;
+	}
+
+	.soley-premium-block {
+		padding-bottom: 60px;
+	}
+
+	.soley-premium-sign {
+		width: 620px;
+		bottom: -22px;
+	}
+
+	.soley-premium-subtitle-block {
+		display: flex;
+		justify-content: center;
+	}
+
+	.soley-premium-title {
+		text-align: center;
+	}
+
+	.soley-premium-descr {
+		text-align: center;
+	}
+
+	.soley-premium-buttons {
+		justify-content: center;
+	}
+
+	.toppanel-left .mobile-panel-btn-block {
+		display: block;
+	}
+
+
+	.footer-contact-buttons-block {
+		display: block;
+		margin-top: 40px;
+	}
+
+	.footer-middle-left .footer-soc-block {
+		display: block;
+	}
+
+	.footer-bottom-right {
+		padding-top: 0;
+	}
+
+	.news-item {
+		padding: 24px;
+		padding-bottom: 76px;
+	}
+
+	.news-item-bottom-block {
+		left: 24px;
+		right: 24px;
+		bottom: 24px;
+	}
+
+	.soley-what-new-link-block {
+		text-align: center;
+	}
+
+	.contact-info-title-block {
+		text-align: center;
+	}
+
+	.contact-info-descr {
+		text-align: center;
+	}
+
+	.contact-question-links-title {
+		text-align: center;
+	}
+
+	.company-item {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+	}
+
+	.company-item-top {
+		width: 100%;
+		justify-content: flex-start;
+		margin-bottom: 16px;
+	}
+
+	.company-item-img-block {
+		margin-top: 0;
+		width: 50%;
+		padding-right: 16px;
+	}
+
+	.company-item-content {
+		width: 50%;
+		padding-left: 16px;
+		padding-top: 0;
+		text-align: left;
+	}
+
+	.contact-support-item-title {
+		text-align: center;
+	}
+
+	.affiliate-front-info-title-block {
+		max-width: 546px;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: center;
+	}
+
+	.affiliate-front-info-descr {
+		max-width: 480px;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: center;
+	}
+
+	.affiliate-front-info-buttons {
+		justify-content: center;
+	}
+
+	.affiliate-front-info-right {
+		padding-top: 40px;
+	}
+
+	.affiliate-front-info-video-block {
+		max-width: 454px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.affiliate-front-partners-title {
+		text-align: center;
+	}
+
+	.affiliate-front-partner-items {
+		justify-content: center;
+	}
+
+	.affil-info-prog-table-block {
+		padding: 24px;
+	}
+
+	.affil-info-prog-t-h-cell {
+		width: 10.5%;
+	}
+
+	.affil-info-prog-t-i-cell {
+		width: 10.5%;
+	}
+
+	.affil-info-prog-t-h-cell:nth-child(2) {
+		width: 16%;
+	}
+
+	.affil-info-prog-t-i-cell:nth-child(2) {
+		width: 16%;
+	}
+
+	.affil-info-prog-table {
+		margin-top: 32px;
+	}
+
+	.affiliate-reward-block {
+		padding: 32px 24px;
+	}
+
+	.affiliate-reward-title-block {
+		text-align: center;
+	}
+
+	.affiliate-reward-descr {
+		text-align: center;
+	}
+
+	.affiliate-reward-subtitle {
+		justify-content: center;
+	}
+
+	.affiliate-reward-t-i-get-bonus-btn-block {
+		display: none;
+	}
+
+	.affiliate-reward-t-item-cell {
+		width: 25%;
+	}
+
+	.affiliate-reward-t-i-cell--bonuses .affiliate-reward-t-item-cell-inner {
+		padding-right: 0;
+	}
+
+	.affiliate-reward-t-i-cell--name {
+		width: 30%;
+	}
+
+	.affiliate-reward-t-i-cell--bonuses {
+		width: 20%;
+	}
+
+	.affiliate-reward-t-h-cell {
+		width: 25%;
+	}
+
+	.affiliate-reward-t-h-cell--investment {
+		width: 30%;
+	}
+
+	.affiliate-reward-t-h-cell--bonuses {
+		width: 20%;
+	}
+
+	.affiliate-reward-t-show-btn-block {
+		text-align: center;
+	}
+
+	.ask-question-block {
+		padding: 32px 24px;
+	}
+
+	.faq-top-content {
+		padding: 32px;
+	}
+
+	.faq-top-title-block {
+		margin-top: 10px;
+	}
+
+	.faq-top-title {
+		font-size: 32px;
+	}
+
+	.faq-top-descr {
+		margin-top: 10px;
+	}
+
+	.faq-top-search-form {
+		margin-top: 16px;
+		display: block;
+	}
+
+	.faq-top-search-form-field {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.faq-top-search-form-btn {
+		width: 100%;
+		margin-top: 16px;
+	}
+
+	.section-faq {
+		padding-top: 32px;
+	}
+
+	.faq-sort-item {
+		padding: 24px 16px;
+	}
+
+
+	.fees-top-content {
+		padding: 32px;
+	}
+
+	.fees-top-title-block {
+		margin-top: 10px;
+	}
+
+	.fees-top-title {
+		font-size: 32px;
+	}
+
+	.fees-top-descr {
+		margin-top: 10px;
+	}
+
+	.fees-top-search-form {
+		margin-top: 16px;
+		display: block;
+	}
+
+	.fees-top-search-form-field {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.fees-top-search-form-btn {
+		width: 100%;
+		margin-top: 16px;
+	}
+
+	.fees-t-heading {
+		font-size: 10px;
+	}
+
+	.fees-t-item {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.fees-t-heading {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.fees-t-h-left .fees-t-h-cell {
+		margin-left: -16px;
+	}
+
+	.fees-t-heading {
+		padding-bottom: 10px;
+		border-bottom: 0;
+	}
+
+	.fees-t-h-cell--withdrawal {
+		width: 19%;
+	}
+
+	.fees-t-h-cell--fees {
+		width: 14%;
+	}
+
+	.fees-t-h-cell--sly {
+		width: 10%;
+	}
+
+	.fees-table-block {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+
+
+	.fees-t-i-left {
+		width: 24%;
+	}
+
+	.fees-t-h-left {
+		width: 24%;
+	}
+
+	.fees-t-i-right {
+		width: 76%;
+		padding-left: 12px;
+	}
+
+	.fees-t-h-right {
+		width: 76%;
+		padding-left: 12px;
+	}
+
+	.fees-t-h-cell--min-refill {
+		width: 16%;
+	}
+
+	.fees-t-h-cell--min-withdrawal {
+		width: 23%;
+	}
+
+	.policy-content-left {
+		display: none;
+	}
+
+	.policy-content-right {
+		width: 100%;
+		padding-left: 0;
+	}
+
+	.mp-one-title-block {
+		max-width: 546px;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: center;
+	}
+
+	.mp-one-descr {
+		max-width: 480px;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: center;
+	}
+
+	.mp-one-buttons {
+		justify-content: center;
+	}
+
+	.mp-one-right {
+		padding-top: 40px;
+	}
+
+	.mp-about {
+		flex-wrap: wrap;
+	}
+
+	.mp-about-left {
+		width: 100%;
+		padding-right: 0;
+		max-width: 616px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.mp-about-right {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 40px;
+	}
+
+	.mp-about-benefit-items-block {
+		margin-left: -25px;
+		margin-right: -25px;
+	}
+
+	.mp-about-benefit-items {
+		justify-content: center;
+	}
+
+	.trading-type-buttons {
+		justify-content: center;
+	}
+
+	.mp-about-video-block {
+		max-width: 616px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.mp-one-circle-menu-block {
+		max-width: 640px;
+		padding-left: 112px;
+		padding-right: 112px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.mp-one-circle-menu-link {
+		padding: 16px;
+		border-radius: 32px;
+		min-width: 128px;
+	}
+
+	.mp-one-circle-menu-link__title {
+		font-size: 12px;
+		margin-top: 10px;
+	}
+
+	.mp-one-circle-menu-link__icon {
+		height: 24px;
+	}
+
+	.mp-one-circle-menu-link__icon .image {
+		height: 24px;
+	}
+
+
+	.mp-one-circle-menu-link--soon {
+		padding: 10px;
+		border-radius: 20px;
+		min-width: 80px;
+		pointer-events: none;
+	}
+
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon {
+		height: 15px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon .image {
+		height: 15px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__title {
+		font-size: 10px;
+	}
+
+	.mp-about-video {
+		border-radius: 48px;
+	}
+
+	.mp-about-video__preview {
+		border-radius: 48px;
+	}
+
+	.mp-about-video__preview .image {
+		border-radius: 48px;
+	}
+
+	.mp-trading-type-item {
+		flex-direction: row-reverse;
+	}
+
+	.mp-trading-type-item-left {
+		width: 280px;
+	}
+
+	.mp-trading-type-item-right {
+		width: calc(100% - 280px);
+		padding-left: 0;
+		padding-right: 24px;
+	}
+
+	.mp-trading-type-item-video-block .trading-type-info-video__preview {
+		height: 170px;
+	}
+
+	.mp-trading-type-item-video-block {
+		padding: 16px;
+	}
+
+	.mp-trading-type-item-video-block .trading-type-info-video__icon {
+		height: 68px;
+	}
+
+	.section-mp-companies .section-title-block {
+		justify-content: center;
+	}
+
+	.section-mp-companies .section-descr {
+		text-align: center;
+	}
+
+	.mp-companies-top-btn-block {
+		margin-top: 32px;
+		text-align: center;
+	}
+
+	.mp-companies-top-right {
+		justify-content: center;
+	}
+
+	.join-item__title {
+		font-size: 24px;
+	}
+
+	.join-block {
+		padding-left: 32px;
+		padding-right: 32px;
+	}
+
+	.join-item {
+		padding: 24px 16px;
+	}
+
+	.section-roadmap {
+		background-size: 700px auto;
+		background-position: center top 150px;
+	}
+
+	.intro-sly-content {
+		flex-wrap: wrap;
+	}
+
+	.intro-sly-content-left {
+		width: 50%;
+		order: 1;
+		justify-content: flex-end;
+		padding-right: 4px;
+	}
+
+	.intro-sly-content-right {
+		width: 50%;
+		order: 2;
+		justify-content: flex-start;
+		padding-left: 4px;
+	}
+
+	.intro-sly-content-center {
+		width: 100%;
+		order: 3;
+		padding-top: 30px;
+	}
+
+	.intro-sly-block {
+		padding-top: 72px;
+		padding-bottom: 42px;
+	}
+
+	.ps-item-wrapper {
+		width: 33.33%;
+	}
+
+	.ps-item-wrapper:nth-child(n+10) {
+		display: none;
+	}
+
+	.about-top-left {
+		max-width: 575px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.about-top-title-block {
+		text-align: center;
+	}
+
+	.about-top-descr {
+		text-align: center;
+	}
+
+	.about-top-benefit-items {
+		justify-content: center;
+	}
+
+	.about-top-right {
+		padding-top: 26px;
+	}
+
+	.about-top-video-block {
+		max-width: 454px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.academy-tab {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.academy-tabs {
+		justify-content: center;
+	}
+
+	.academy-top-info {
+		text-align: center;
+	}
+
+	.academy-top-subtitle {
+		justify-content: center;
+	}
+
+	.academy-top-title-block {
+		text-align: center;
+	}
+
+	.academy-top-title {
+		font-size: 32px;
+	}
+
+	.academy-video-lesson-item-video__preview {
+		height: 240px;
+	}
+
+
+	.sly-top-info {
+		flex-wrap: wrap;
+	}
+
+	.sly-top-info-left {
+		width: 100%;
+		padding-right: 0;
+		max-width: 500px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.sly-top-info-left .intro-sly-title-block {
+		margin-right: -10px;
+		margin-left: -10px;
+	}
+
+	.sly-top-info-right {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 40px;
+	}
+
+	.sly-top-info-benefit-items-block {
+		margin-left: -25px;
+		margin-right: -25px;
+	}
+
+	.sly-top-info-benefit-items {
+		justify-content: center;
+	}
+
+	.sly-top-info-video-block {
+		max-width: 335px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.intro-sly__price-block {
+		justify-content: center;
+	}
+
+	.sly-top-subtitle-block {
+		text-align: center;
+	}
+
+	.sly-top-descr {
+		text-align: center;
+	}
+
+	.sly-top-note {
+		text-align: center;
+	}
+	.soley-premium-block--top{
+		padding-bottom: 76px;
+	}
+	.soley-premium-block--top .soley-premium-block-left{
+		width: 100%;
+	}
+	.soley-premium-block--top .soley-premium-block-right{
+		width: 100%;
+		padding-left: 0;
+		padding-top: 32px;
+	}
+	.soley-premium-note{
+		text-align: center;
+	}
+	.sly-top-info-benefit-items-descr{
+		max-width: 430px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.cookies-block{
+		bottom: 24px;
+		right: 24px;
+	}
+
+	.cookies-block{
+		/* padding: 32px;
+		padding-top: 32px; */
+	}
+	.tr-type-calc-form::after{
+		display: none;
+	}
+	.tr-type-calc-form-data{
+		padding: 32px 24px;
+		padding-bottom: 0;
+	}
+	.tr-type-calc-form-result{
+		padding: 32px 24px;
+		padding-top: 0;
+	}
+	
+	.tr-type-calc-form-data-fieldset .field-title-min-max-block{
+		display: flex;
+	}
+	.tr-type-calc-form-data-fieldset .field-title-min-max-block--bottom{
+		display: none;
+	}
+	.tr-type-calc-form-result-btn-wrapper{
+		width: 50%;
+	}
+	.tr-type-calc-form-result-btn{
+		width: 100%;
+	}
+	.tr-type-calc-form-result .tr-type-calc-form-data-title{
+		font-size: 14px;
+	}
+}
+
+/* sm <= Medium (md) */
+@media (max-width : 767.98px) {
+	.func-menu-block {
+		width: 310px;
+	}
+
+	.toppanel-right {
+		padding-left: 20px;
+	}
+
+	.toppanel {
+		height: 62px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.topline-left .mobile-panel-btn-block {
+		margin-right: 50px;
+	}
+
+	header::before {
+		width: 570px;
+		height: 91px;
+		top: -10px;
+		background-image: url('../images/theme/topline-block-bg-mobile.png');
+	}
+
+	.footer-middle-alt-block {
+		display: none;
+	}
+
+	.footer-middle {
+		padding-top: 16px;
+		padding-bottom: 24px;
+	}
+
+	.footer-middle-center {
+		padding-top: 2px;
+	}
+
+	footer {
+		padding-top: 104px;
+	}
+
+	footer::before {
+		width: 540px;
+		height: 87px;
+		top: 22px;
+	}
+
+	.db-topmenu-block {
+		width: 340px;
+	}
+
+	.db-topmenu .priority-nav__wrapper {
+		margin-left: 0;
+	}
+
+	.db-topmenu .priority-nav__dropdown {
+		left: 0;
+		right: auto;
+	}
+
+	.db-toppanel {
+		height: 62px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.db-topline-right .topline-lang-panel-block {
+		margin-left: 80px;
+	}
+
+	.db-top-current-page-btn-block {
+		display: block;
+	}
+
+	.transactions-filter-form-cols {
+		margin-top: -16px;
+	}
+
+	.transactions-filter-form-col {
+		width: 100%;
+		padding-top: 16px;
+	}
+
+	.transactions-filter-heading-inner {
+		flex-wrap: wrap;
+	}
+
+	.transactions-filter-title-block {
+		width: 100%;
+	}
+
+	.transactions-accepted-filters-block {
+		max-width: 100%;
+		margin-top: 16px;
+	}
+
+	.transactions-filter-body {
+		padding-bottom: 40px;
+	}
+
+	.modal-dialog {
+		max-width: 536px;
+	}
+
+	.s-registration-block {
+		max-width: 516px;
+	}
+
+
+	.select-phone-country.bootstrap-select>.dropdown-menu {
+		min-width: 436px;
+	}
+
+	.new-dep-inv-plan-arb-item-inner {
+		padding-left: 48px;
+	}
+
+	.new-dep-inv-plan-arb-item-radio {
+		left: 16px;
+	}
+
+	.new-dep-strat-radio-item-wrapper {
+		width: 50%;
+	}
+
+	.new-dep-inv-plan-arb-item-percent {
+		font-size: 12px;
+	}
+
+	.new-dep-inv-plan-arb-item-time {
+		font-size: 12px;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-item__title {
+		font-size: 10px;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-item__rate {
+		font-size: 10px;
+	}
+
+	.new-dep-inv-plan-arb-item-percent-block {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+
+	.new-dep-inv-plan-arb-item-currency-list-block {
+		padding-right: 2px;
+	}
+
+	.new-dep-inv-plan-arb-item-time-block {
+		padding-left: 2px;
+	}
+
+	.new-dep-inv-plan-arb-item-left {
+		padding-left: 4px;
+		padding-right: 4px;
+		width: 40%;
+	}
+
+	.new-dep-inv-plan-arb-item-right {
+		padding-left: 8px;
+		padding-right: 16px;
+		width: 60%;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-list {
+		margin-left: -4px;
+		margin-right: -4px;
+	}
+
+	.new-dep-inv-plan-arb-item-burse-item-wrapper {
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.currency-radio-item-wrapper {
+		width: 33.33%;
+	}
+
+	.currency-radio-item-wrapper:nth-child(n+7) {
+		display: none;
+	}
+
+	.nd-algo-item-wrapper {
+		width: 50%;
+	}
+
+	.nd-algo-benefit-item__text {
+		font-size: 12px;
+	}
+
+	.nd-algo-benefit-item {
+		max-width: 216px;
+	}
+
+	.nd-total-profit-item {
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.nd-total-profit-item-wrapper {
+		width: 50%;
+	}
+
+	.nd-total-profit-item-wrapper--arbitrage {
+		width: 33.33%;
+	}
+
+
+	.nd-prof-item-wrapper {
+		width: 50%;
+	}
+
+	.new-dep-success-profit-item-wrapper {
+		width: 50%;
+	}
+
+	.buy-sly-link-block {
+		margin-top: 20px;
+	}
+
+	.deposit-item-wrapper {
+		width: 100%;
+	}
+
+	.deposits-empty-block {
+		background-position: bottom -20px left -30px;
+		background-size: 700px auto;
+	}
+
+	.transaction-item {
+		flex-wrap: wrap;
+	}
+
+	.transaction-item-left {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.transaction-item-id-block {
+		width: 25%;
+		padding-right: 8px;
+	}
+
+	.transaction-item-status-block {
+		width: 25%;
+		padding-left: 0;
+		padding-right: 8px;
+	}
+
+	.transaction-item-type-block {
+		width: 50%;
+		padding-left: 0;
+	}
+
+	.transaction-item-right {
+		width: 100%;
+		padding-top: 12px;
+		padding-left: 0;
+	}
+
+	.transaction-item-info-block {
+		padding-left: 0;
+		width: 50%;
+		padding-right: 8px;
+	}
+
+	.transaction-item-manage-links {
+		display: flex;
+		align-items: center;
+		margin-left: -2px;
+		margin-right: -2px;
+	}
+
+	.transaction-item-manage-links-block {
+		padding-left: 0;
+		padding-right: 8px;
+		width: 25%;
+	}
+
+	.transaction-item-more-info-link-block {
+		width: 25%;
+		display: flex;
+		justify-content: flex-end;
+	}
+
+	.transaction-item-manage-link-wrapper {
+		margin-top: 0;
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+
+	.transaction-item {
+		padding-top: 18px;
+	}
+
+	.transaction-item-type-subtitle {
+		font-size: 12px;
+	}
+
+	.transaction-item-info-amount {
+		font-size: 12px;
+	}
+
+	.transaction-item-info-date {
+		font-size: 12px;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item::before {
+		width: 490px;
+	}
+
+	.partners-stats-block {
+		display: flex;
+	}
+
+	.partners-stats-chart-legend-block {
+		width: calc(50% + 12px);
+		padding-left: 24px;
+		margin-top: 0;
+		justify-content: flex-start;
+	}
+
+	.partners-stats-chart-block {
+		width: calc(50% - 12px);
+	}
+
+
+	.earning-stats-block {
+		display: flex;
+	}
+
+	.earning-stats-chart-legend-block {
+		width: calc(50% + 12px);
+		padding-left: 24px;
+		margin-top: 0;
+		justify-content: flex-start;
+	}
+
+	.earning-stats-chart-block {
+		width: calc(50% - 12px);
+	}
+
+	.partners-filter-heading-inner {
+		flex-wrap: wrap;
+	}
+
+	.partners-filter-title-block {
+		width: 100%;
+	}
+
+	.partners-accepted-filters-block {
+		max-width: 100%;
+		margin-top: 16px;
+	}
+
+	.partners-accepted-filter__title {
+		font-size: 10px;
+	}
+
+	.partners-filter-form-col {
+		width: 50%;
+		padding-top: 20px;
+	}
+
+	.partners-filter-form-col:first-child {
+		width: 100%;
+		padding-top: 0;
+	}
+
+	.partner-item-heading {
+		flex-wrap: wrap;
+	}
+
+	.partner-item-h-left {
+		width: 100%;
+	}
+
+	.partner-item-h-right {
+		width: 100%;
+		padding-top: 14px;
+	}
+
+	.partner-item-h-right-inner {
+		margin-right: -100px;
+	}
+
+	.partner-item-h-view-more-btn-block {
+		height: 32px;
+		display: flex;
+		align-items: center;
+		top: 16px;
+		transform: none;
+	}
+
+	.pip-t-h-col--earned {
+		display: none;
+	}
+
+	.pip-t-i-col--earned {
+		display: none;
+	}
+
+	.pip-t-heading {
+		font-size: 10px;
+	}
+
+	.pip-t-h-col--currency {
+		width: 50%;
+	}
+
+	.pip-t-h-col--invested {
+		width: 25%;
+	}
+
+	.pip-t-h-col--structure {
+		width: 25%;
+	}
+
+	.pip-t-i-col--currency {
+		width: 50%;
+	}
+
+	.pip-t-i-col--invested {
+		width: 25%;
+	}
+
+	.pip-t-i-col--structure {
+		width: 25%;
+	}
+
+	.pip-t-i-col__value {
+		font-size: 12px;
+	}
+
+	.referral-link-field-block {
+		margin-top: 20px;
+	}
+
+	.affiliate-programm-t-col--next-level {
+		width: 44%;
+	}
+
+	.affiliate-programm-t-col--current-level {
+		width: 56%;
+	}
+
+	.affiliate-programm-t-ch-bonus {
+		display: flex;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-ch-title {
+		max-width: none;
+	}
+
+	.affiliate-programm-t-col-heading {
+		align-items: center;
+	}
+
+	.affiliate-programm-t-ch-bonus-value {
+		padding-left: 2px;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-ch-bonus-value {
+		padding-left: 2px;
+	}
+
+	.partner-item-h-invested-block {
+		order: 1;
+		width: 28%;
+	}
+
+	.partner-item-h-structure-block {
+		order: 2;
+		width: 34%;
+	}
+
+	.partner-item-h-total-profit-block {
+		order: 3;
+	}
+
+	.partner-item-h-right {
+		padding-left: 30px;
+	}
+
+	.partners-filter-form-manage-panel {
+		justify-content: flex-start;
+	}
+
+	.partners-filter-form-manage-panel-block {
+		margin-top: 20px;
+	}
+
+	.dashboard-top-center {
+		padding-top: 40px;
+	}
+
+	.dashboard-top-left {
+		padding-top: 24px;
+	}
+
+	.balance-item-wrapper {
+		width: 33.33%;
+	}
+
+	.balance-item-wrapper:nth-child(n+7) {
+		display: none;
+	}
+
+	.dashboard-sly-token-block {
+		flex-wrap: wrap;
+	}
+
+	.dashboard-sly-token-block-bottom {
+		width: 100%;
+		padding-top: 24px;
+		padding-left: 0;
+	}
+
+	.dashboard-deposits-block {
+		margin-top: 24px;
+	}
+
+	.balance-item-wrapper {
+		width: 50%;
+	}
+
+	.balance-item__title {
+		font-size: 12px;
+	}
+
+	.balance-item__balance {
+		font-size: 12px;
+	}
+
+	.balance-item__currency {
+		font-size: 12px;
+	}
+
+	.balance-item {
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.deposit-slider .swiper-button-next,
+	.deposit-slider .swiper-button-prev {
+		width: 20px;
+		height: 20px;
+		top: -43px;
+	}
+
+	.deposit-slider .swiper-button-next::after,
+	.deposit-slider .swiper-button-prev::after {
+		width: 12px;
+		height: 12px;
+		mask-size: 12px 12px;
+		-webkit-mask-size: 12px 12px;
+	}
+
+	.deposit-slider .swiper-button-prev {
+		right: 30px;
+	}
+
+	.dashboard-affiliate-block .affiliate-programm-t-col--current-level .affiliate-programm-t-item::before {
+		width: 490px;
+	}
+
+	.dashboard-sly-token-descr {
+		margin-top: 0;
+	}
+
+	.banner-item {
+		flex-wrap: wrap;
+	}
+
+	.promo-top {
+		display: block;
+	}
+
+	.promo-top-left {
+		padding-right: 0;
+	}
+
+	.promo-block {
+		padding: 32px 24px;
+	}
+
+	.promo-top-right {
+		padding-top: 24px;
+	}
+
+	.banner-item-left {
+		width: 100%;
+		max-width: 316px;
+	}
+
+	.banner-item-img-block {
+		padding-left: 16px;
+	}
+
+	.banner-item-right {
+		width: 100%;
+		padding-left: 56px;
+		padding-top: 24px;
+	}
+
+	.promo-pdf-item {
+		flex-wrap: wrap;
+	}
+
+	.promo-pdf-item-right {
+		width: 100%;
+		padding-left: 56px;
+		padding-top: 24px;
+	}
+
+	.promo-video-item {
+		flex-wrap: wrap;
+	}
+
+	.promo-video-item-right {
+		width: 100%;
+		padding-left: 56px;
+		padding-top: 24px;
+	}
+
+	.promo-video-item-content {
+		padding-top: 0;
+	}
+
+	.promo-video-item-link {
+		font-size: 10px;
+	}
+
+	.promo-video-item-link-block {
+		margin-top: 8px;
+	}
+
+	.spot-order-t-heading {
+		font-size: 9px;
+	}
+
+	.spot-order-t-item {
+		font-size: 9px;
+	}
+
+	.spot-order-t-item-inner {
+		min-height: 16px;
+	}
+
+	.token-tab {
+		font-size: 12px;
+	}
+
+	.balance-item-wrapper {
+		width: 33.33%;
+	}
+
+	.trading-type-info-block {
+		padding: 24px;
+	}
+
+	h1,
+	.h1 {
+		font-size: 32px;
+	}
+
+	.trading-type-info-benefit-items-block {
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	.inv-plan-tab-slider-block {
+		max-width: 476px;
+	}
+
+	.inv-plan-item-wrapper {
+		width: 50%;
+		margin-top: 24px;
+	}
+
+	.inv-plan-items {
+		margin-top: -24px;
+	}
+
+	.tr-type-calc-form-result-item-wrapper {
+		margin-top: 20px;
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 50%;
+	}
+
+	.tr-type-calc-form-result-note {
+		margin-top: 24px;
+	}
+
+	.other-products-block {
+		/* background-position: top -40px left 15%; */
+	}
+
+	.other-product-item-wrapper {
+		width: 100%;
+	}
+
+	.recent-news-item__img {
+		width: 180px;
+		height: 128px;
+	}
+
+	.recent-news-item__content {
+		width: calc(100% - 180px);
+	}
+
+	.cta-content-title {
+		font-size: 40px;
+	}
+
+	.cta-block {
+		background-position: top 70px left 340%;
+	}
+
+	.soley-premium-title {
+		font-size: 32px;
+	}
+
+	.soley-premium-btn {
+		min-width: 154px;
+	}
+
+	.soley-premium-btn {
+		padding-left: 32px;
+		padding-right: 32px;
+	}
+
+	.book-appointment-btn {
+		padding-right: 60px;
+	}
+
+	.soley-premium-sign {
+		width: 490px;
+		bottom: -15px;
+	}
+
+	.footer-top-center {
+		padding-top: 16px;
+	}
+
+	.footer-middle-center .footer-contact-buttons-block {
+		display: none;
+	}
+
+	.footer-func-menu-item {
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-top: 10px;
+	}
+
+	.footer-func-menu>ul {
+		margin-left: -5px;
+		margin-right: -5px;
+		margin-top: -10px;
+	}
+
+	.footer-func-menu-link__title {
+		padding-left: 8px;
+	}
+
+	.footer-info {
+		max-width: 240px;
+	}
+
+	.footer-bottom-right {
+		justify-content: flex-end;
+	}
+
+	.news-single-top-content {
+		flex-wrap: wrap;
+	}
+
+	.news-single-top-content-left {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.news-single-top-content-right {
+		width: 100%;
+	}
+
+	.news-single-top-title {
+		font-size: 32px;
+	}
+
+	.news-single-top {
+		padding-left: 24px;
+		padding-bottom: 28px;
+	}
+
+	.news-single-top-content-right {
+		padding-top: 24px;
+	}
+
+	.news-single-top-content {
+		margin-top: 32px;
+	}
+
+	.news-single-top-top {
+		margin-left: -24px;
+	}
+
+	.contact-premium {
+		padding-left: 32px;
+		padding-right: 32px;
+	}
+
+	.company-item-img-block {
+		padding-right: 8px;
+	}
+
+	.company-item-content {
+		padding-left: 8px;
+	}
+
+	.company-items-block {
+		margin-top: 16px;
+	}
+
+	.affiliate-front-programm-item {
+		padding-left: 54px;
+		padding-right: 54px;
+	}
+
+	.affil-info-prog-t-heading {
+		display: none;
+	}
+
+	.affil-info-prog-t-i-cells {
+		display: block;
+	}
+
+	.affil-info-prog-table {
+		margin-top: 15px;
+	}
+
+	.affil-info-prog-t-item {
+		margin-top: 15px;
+		padding: 16px;
+		box-shadow: 0px 1px 1px 1px #FFF inset;
+		border-radius: 32px;
+		background: linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.00) 100%), rgba(255, 255, 255, 0.30);
+	}
+
+	.affil-info-prog-t-i-cell {
+		width: 100%;
+		display: block;
+		margin-top: 16px;
+	}
+
+	.affil-info-prog-t-i-cell:first-child {
+		margin-top: 0;
+	}
+
+	.affil-info-prog-t-i-cell__title {
+		display: block;
+		text-transform: uppercase;
+		font-size: 10px;
+	}
+
+	.affil-info-prog-t-i-cell-inner {
+		padding: 0;
+		height: auto;
+		box-shadow: none;
+		background-color: transparent;
+		background-image: none;
+		width: 100%;
+		justify-content: space-between;
+	}
+
+	.affil-info-prog-t-i-cell--purple .affil-info-prog-t-i-cell-inner {
+		box-shadow: none;
+	}
+
+	.affil-info-prog-t-i-cell:nth-child(2) {
+		width: 100%;
+	}
+
+	.affil-info-prog-t-i-cell__value {
+		font-size: 14px;
+	}
+
+	.affil-info-prog-t-i-cell--empty {
+		display: none;
+	}
+
+	.affil-info-prog-table-note-block {
+		display: none;
+	}
+
+	.affiliate-reward-t-heading {
+		display: none;
+	}
+
+	.affiliate-reward-t-item-cell__title {
+		display: block;
+	}
+
+	.affiliate-reward-t-item-cell-inner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.affiliate-reward-t-item-cells {
+		display: block;
+	}
+
+	.affiliate-reward-t-item {
+		padding: 16px;
+	}
+
+	.affiliate-reward-t-item-cells {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.affiliate-reward-t-item-cell {
+		width: 100%;
+		padding: 0;
+		margin-top: 16px;
+	}
+
+	.affiliate-reward-t-item-cell:first-child {
+		margin-top: 0px;
+	}
+
+	/* .affiliate-reward-t-item:nth-child(n+2) {
+		display: none;
+	} */
+
+	.faq-top-subtitle {
+		justify-content: center;
+	}
+
+	.faq-top-title-block {
+		text-align: center;
+	}
+
+	.faq-top-descr {
+		text-align: center;
+	}
+
+	.ask-question-block {
+		height: auto;
+		margin-top: 32px;
+	}
+
+	.ask-question-btn {
+		max-width: 210px;
+	}
+
+	.faq-sort-items-block {
+		display: none;
+	}
+
+
+	.faq-sort-mobile-block {
+		display: block;
+	}
+
+	.fees-top-subtitle {
+		justify-content: center;
+	}
+
+	.fees-top-title-block {
+		text-align: center;
+	}
+
+	.fees-top-descr {
+		text-align: center;
+	}
+
+	.fees-table-block {
+		border-radius: 0;
+		box-shadow: none;
+		background-image: none;
+		background-color: transparent;
+		padding: 0;
+		margin-top: 16px;
+	}
+
+	.fees-t-heading {
+		display: none;
+	}
+
+	.fees-t-item {
+		display: block;
+	}
+
+	.fees-t-i-left {
+		width: 100%;
+	}
+
+	.fees-t-i-right {
+		width: 100%;
+	}
+
+	.fees-t-i-cells {
+		display: block;
+	}
+
+	.fees-t-i-cell {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		margin-top: 8px;
+	}
+
+	.fees-t-i-cell:first-child {
+		margin-top: 0;
+	}
+
+	.fees-t-i-right {
+		padding-left: 0;
+		padding-top: 8px;
+	}
+
+	.fees-t-i-cell__title {
+		display: block;
+	}
+
+	.fees-t-i-protocol {
+		margin-left: -16px;
+		margin-right: -16px;
+		padding-left: 16px;
+		padding-right: 16px;
+		border-radius: 0;
+		margin-top: 8px;
+	}
+
+	.fees-t-i-protocol:first-child {
+		margin-top: 0;
+	}
+
+	.fees-t-i-protocol:nth-child(even) {
+		padding-top: 12px;
+		padding-bottom: 12px;
+	}
+
+	.mp-about-block {
+		padding: 24px;
+	}
+
+	.mp-about-benefit-items-block {
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	.mp-one-circle-menu-link__icon {
+		height: 20px;
+	}
+
+	.mp-one-circle-menu-link__icon .image {
+		height: 20px;
+	}
+
+	.mp-one-circle-menu-link__title {
+		font-size: 10px;
+		margin-top: 8px;
+	}
+
+	.mp-one-circle-menu-link {
+		padding: 13px;
+		min-width: 104px;
+		border-radius: 24px;
+	}
+
+
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon {
+		height: 12px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon .image {
+		height: 12px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__title {
+		font-size: 8px;
+	}
+
+	.mp-one-circle-menu-link__soon-block {
+		margin-top: 5px;
+	}
+
+	.mp-one-circle-menu-link__soon {
+		font-size: 7px;
+		padding: 4px 5px;
+	}
+
+	.mp-one-circle-menu-link--soon {
+		min-width: 64px;
+	}
+
+	.mp-soley-benefit-item {
+		padding: 24px;
+	}
+
+	.mp-about-block {
+		padding: 32px;
+	}
+
+	.mp-about-subtitle {
+		justify-content: center;
+	}
+
+	.mp-about-title {
+		text-align: center;
+	}
+
+	.mp-about-descr {
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.mp-about-right {
+		padding-top: 20px;
+	}
+
+	.mp-trading-type-item {
+		flex-wrap: wrap;
+	}
+
+	.mp-trading-type-item:first-child {
+		padding-top: 0;
+	}
+
+	.mp-trading-type-item-right {
+		width: 100%;
+		padding-right: 0;
+		order: 1;
+		text-align: center;
+	}
+
+	.mp-trading-type-item-left {
+		padding-top: 24px;
+		width: 100%;
+		order: 2;
+	}
+
+	.mp-trading-type-item-video-block .trading-type-info-video__preview {
+		height: auto;
+	}
+
+	.mp-trading-type-item-video-block .trading-type-info-video__icon {
+		height: 126px;
+	}
+
+	.mp-trading-type-item-video-block {
+		padding: 28px;
+	}
+
+	.mp-trading-type-item-subtitle-block {
+		justify-content: center;
+	}
+
+	.mp-trading-type-benefit-items {
+		justify-content: center;
+	}
+
+	.mp-trading-type-benefit-item__text {
+		text-align: left;
+	}
+
+	.join-item-wrapper {
+		width: 100%;
+	}
+
+	.join-block {
+		padding-top: 48px;
+	}
+
+	.join-item {
+		padding: 24px;
+	}
+
+	.roadmap-slide-item--current .roadmap-slide-item__circle-wrapper::before {
+		width: 1200px;
+	}
+
+	.roadmap-slide-item {
+		max-width: 300px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.intro-sly-content-block {
+		max-width: 350px;
+	}
+
+	.intro-sly-title {
+		flex-direction: column;
+	}
+
+	.intro-sly-title__text {
+		padding-right: 0;
+	}
+
+	.title-intro-sly {
+		margin-top: 16px;
+	}
+
+	.intro-sly-benefit-item-wrapper {
+		margin-top: 10px;
+		width: 100%;
+	}
+
+	.intro-sly-benefit-item-wrapper:first-child {
+		margin-top: 0;
+	}
+
+	.intro-sly-block .section-descr {
+		max-width: 250px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.ps-item-wrapper {
+		width: 50%;
+	}
+
+	.ps-item-wrapper:nth-child(n+9) {
+		display: none;
+	}
+
+	.about-top-video-block {
+		max-width: 100%;
+	}
+
+	.team-item-img {
+		/* height: 295px; */
+	}
+
+	.team-items-block {
+		margin-top: 8px;
+	}
+
+	.academy-tab-wrapper {
+		width: 100%;
+	}
+
+	.academy-top-block {
+		padding: 40px 32px;
+	}
+
+
+	.sly-top-info-block {
+		padding: 24px;
+	}
+
+
+	.sly-top-info-benefit-items-block {
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	.sly-top-info-left .intro-sly-title-block {
+		margin-left: 0;
+		margin-right: 0;
+		justify-content: center;
+	}
+
+	.deposit-top-btn-wrapper{
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+	.deposit-top-buttons{
+		margin-left: -4px;
+		margin-right: -4px;
+	}
+	.deposit-top-tooltip-wrapper{
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+}
+
+/* xs <= Small (sm) */
+@media (max-width : 575.98px) {
+
+	h1,
+	.h1 {
+		font-size: 32px;
+	}
+
+	h2,
+	.h2 {
+		font-size: 24px;
+	}
+
+	.topline-left .topline-soc-block {
+		display: none;
+	}
+
+	.func-menu-block {
+		width: 36px;
+	}
+
+	.mobile-panel-block {
+		width: 310px;
+	}
+
+	.func-menu .priority-nav__dropdown {
+		right: auto;
+		left: 0;
+		top: calc(100% + 8px);
+	}
+
+	.mobile-panel-bottom .topline-soc-block {
+		display: block;
+	}
+
+	header::before {
+		width: 100vw;
+		height: 80px;
+		top: -5px;
+	}
+
+	.footer-top-right {
+		padding-top: 10px;
+	}
+
+	.footer-info {
+		max-width: 100%;
+	}
+
+	.footer-middle-center {
+		padding-top: 16px;
+	}
+
+	.footer-middle-right {
+		padding-top: 40px;
+		/* display: block; */
+	}
+
+	.footer-middle-right-left {
+		padding-right: 10px;
+	}
+
+	.footer-middle-right-right {
+		padding-left: 10px;
+		/* padding-top: 24px; */
+	}
+
+	.footer-middle {
+		padding-bottom: 24px;
+	}
+
+	.footer-bottom-left {
+		/* display: block; */
+		flex-wrap: wrap;
+		line-height: 1.2;
+	}
+
+	.footer-copy-block {
+		width: 100%;
+	}
+
+	.footer-terms-link-block {
+		/* margin-right: 0; */
+		margin-top: 12px;
+	}
+
+	.footer-privacy-link-block {
+		margin-right: 0;
+		margin-top: 12px;
+	}
+
+	.footer-check-company-block {
+		width: 100%;
+		margin-right: 0;
+		margin-top: 12px;
+	}
+
+	.footer-bottom-right {
+		display: block;
+	}
+
+	.footer-bottom-right-right {
+		display: none;
+	}
+
+	.db-top-current-page-btn-block {
+		display: none;
+	}
+
+	.db-topline .topline-soc-block {
+		display: none;
+	}
+
+	.db-topline-right .topline-lang-panel-block {
+		display: none;
+	}
+
+	.db-topline-center .topline-lang-panel-block {
+		display: block;
+	}
+
+	.db-topline-right {
+		min-width: 0;
+	}
+
+	.db-top-new-dep-btn-block {
+		margin-left: 0;
+	}
+
+	.db-toppanel {
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.elements-form-block {
+		padding: 18px;
+	}
+
+	.topline-block {
+		display: none;
+	}
+
+	.toppanel-left {
+		padding-right: 0;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.toppanel .logo-wrapper {
+		padding-right: 0;
+	}
+
+	.toppanel-block {
+		border: 1px solid #FFF;
+		background: linear-gradient(180deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.00) 100%), rgba(255, 255, 255, 0.50);
+	}
+
+	.toppanel {
+		border: 0;
+		background-color: transparent;
+		background-image: none;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.toppanel-right {
+		display: none;
+	}
+
+
+
+	.topline-left .mobile-panel-btn-block {
+		display: none;
+	}
+
+	.topline-right .mobile-panel-btn-block {
+		display: block;
+		margin-right: 0;
+		margin-left: 7px;
+	}
+
+	.topline-current-lang__text {
+		display: none;
+	}
+
+	.topline-current-lang {}
+
+	.topline-current-lang__flag {
+		/* left: 0; */
+	}
+
+	.topline-current-lang__arrow {
+		/* left: auto;
+		right: -4px; */
+	}
+
+	.topline-current-lang::before {
+		display: none;
+	}
+
+	.topline-registration-mobile-btn-block {
+		display: block;
+	}
+
+	.topline-right .topline-lang-dropdown {
+		left: 50%;
+		transform: translateX(-50%);
+		right: auto;
+		margin-top: 4px;
+	}
+
+	.topline {
+		height: 56px;
+	}
+
+	header::before {
+		height: 56px;
+		width: 120vw;
+		top: 0;
+	}
+
+	.mobile-panel-top .logo-wrapper {}
+
+	.footer-middle-center .footer-func-menu>ul {
+		margin-left: -4px;
+		margin-right: -4px;
+	}
+
+	.footer-middle-center .footer-func-menu-item {
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.db-toppanel-block {
+		display: none;
+	}
+
+	.db-topline {
+		height: 56px;
+	}
+
+	.db-topline-left .mobile-panel-btn-block {
+		display: none;
+	}
+
+	.topline-logout-btn-block {
+		display: none;
+	}
+
+	.db-topline-right .mobile-panel-btn-block {
+		display: block;
+	}
+
+	.topline-new-deposit-btn-block {
+		display: block;
+	}
+
+	.modal-body-content {
+		padding-left: 12px;
+		padding-right: 12px;
+		padding-bottom: 40px;
+		border-radius: 0;
+	}
+
+	.custom-modal .modal-content {
+		padding-left: 0;
+		padding-right: 0;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	.modal-close {
+		top: 14px;
+		right: 12px;
+
+	}
+
+	.modal-close::before {
+		background-color: #A29ACF;
+	}
+
+	.db-top-mobile-menu-block {
+		display: block;
+	}
+
+	.custom-modal .modal-body::before {
+		border-radius: 0;
+		left: 6px;
+		right: 6px;
+	}
+
+	.pswd-difficulty-sensor-block {
+		display: none;
+	}
+
+	.registration-block {
+		margin-top: 24px;
+		padding: 22px 14px;
+		border-radius: 40px;
+	}
+
+	.upline-block {
+		padding-left: 10px;
+	}
+
+	.upline-user__username {
+		font-size: 12px;
+	}
+
+	.field-block {
+		margin-top: 16px;
+	}
+
+	.form .btn-wrapper {
+		margin-top: 16px;
+	}
+
+	.form-agreement {
+		margin-top: 16px;
+		padding: 0;
+	}
+
+	.help-create-acc-block {
+		flex-direction: column;
+		justify-content: center;
+		padding: 14px;
+	}
+
+	.help-create-acc-icon {
+		width: 24px;
+		height: 24px;
+	}
+
+	.help-create-acc-icon::before {
+		width: 12px;
+		height: 12px;
+		mask-size: 12px 12px;
+		-webkit-mask-size: 12px 12px;
+	}
+
+	.help-create-acc-title {
+		max-width: none;
+		padding-left: 8px;
+	}
+
+	.help-create-acc-btn-block {
+		margin-top: 8px;
+	}
+
+	section {
+		padding-bottom: 20px;
+	}
+
+	.registration-type-tabs-block {
+		margin-top: 16px;
+	}
+
+	.generate-btn {
+		padding-left: 16px;
+	}
+
+	.select-phone-country.bootstrap-select>.dropdown-menu {
+		min-width: calc(100vw - 56px);
+	}
+
+
+	.new-dep-inv-plan-arb-item-inner {
+		flex-wrap: wrap;
+		/* padding-left: 16px;
+		padding-right: 16px; */
+		padding-left: 8px;
+		padding-right: 8px;
+		border-radius: 12px;
+		padding-bottom: 40px;
+	}
+
+	.new-dep-inv-plan-arb-item-left {
+		width: 100%;
+		padding-left: 0;
+	}
+
+	.new-dep-inv-plan-arb-item-right {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.new-deposit-block {
+		padding: 22px 14px;
+		border-radius: 40px;
+		margin-top: 32px;
+	}
+
+	.new-dep-fieldset-block {
+		margin-top: 16px;
+	}
+
+	.new-dep-fieldset {
+		margin-top: 16px;
+	}
+
+	.new-dep-inv-plan-arb-item-right {
+		padding-left: 0;
+		padding-top: 8px;
+	}
+
+	.new-dep-inv-plan-arb-item-radio {
+		bottom: 8px;
+		right: 8px;
+		left: auto;
+		top: auto;
+		transform: none;
+	}
+
+	.field-block--deposit .field-title-block {
+		display: block;
+	}
+
+	.field-title-min-max-block {
+		margin-top: 8px;
+	}
+
+	.nd-total-profit-item-wrapper {
+		width: 50%;
+	}
+
+	.nd-total-profit-item__title {
+		font-size: 12px;
+	}
+
+	.nd-total-profit-item {
+		border-radius: 32px;
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+
+	.new-dep-inv-plan-arb-item-currency-list {
+		justify-content: flex-start;
+	}
+
+	.currency-radio-item-wrapper {
+		width: 50%;
+	}
+
+	.currency-radio-item-wrapper:nth-child(n+5) {
+		display: none;
+	}
+
+	.nd-algo-item-wrapper {
+		width: 100%;
+	}
+
+	.nd-prof-item-wrapper {
+		width: 100%;
+	}
+
+	.field-copy-btn-block {
+		transform: none;
+		right: 0;
+		top: -29px;
+	}
+
+	.field--textarea .field-copy-btn-block {
+		top: -29px;
+	}
+
+	.field--can-copy textarea {
+		padding-right: 20px;
+	}
+
+	.field-copy-btn::after {
+		/* top: 100%; */
+		top: -12px;
+		right: 0;
+		font-size: 9px;
+	}
+
+	.field-block--can-copy .field-title-block {
+		display: block;
+		padding-right: 70px;
+	}
+
+	.new-dep-success-info-left {
+		width: 100%;
+	}
+
+	.new-dep-success-info-right {
+		width: 100%;
+		padding-top: 16px;
+	}
+
+	.new-deposit-success-fieldset-block {
+		margin-top: 16px;
+	}
+
+	.new-deposit-success-fieldset {
+		margin-top: 16px;
+	}
+
+	.new-dep-to-deposit-block {
+		margin-top: 16px;
+	}
+
+	.create-new-dep-btn-block {
+		margin-top: 16px;
+	}
+
+	.boost-deposit-info-profit {
+		width: 100%;
+		justify-content: center;
+		padding-right: 0;
+		margin-bottom: 16px;
+	}
+
+	.boost-deposit-info {
+		justify-content: center;
+	}
+
+	.boost-deposit-info-sly {
+		margin-left: 8px;
+	}
+
+	.deposit-item-info-period {
+		font-size: 14px;
+	}
+
+	.deposit-item-top {
+		/* flex-direction: column;
+		align-items: flex-start; */
+		align-items: flex-start;
+		flex-wrap: wrap;
+	}
+
+	.deposit-item-top-right {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+	}
+
+	.deposit-item-cancel-return-btn-block {
+		padding-top: 4px;
+		padding-bottom: 4px;
+	}
+
+	.deposit-item-status-block {
+		padding-top: 4px;
+		padding-bottom: 4px;
+	}
+
+	.deposit-item-bottom {
+		font-size: 10px;
+	}
+
+	.deposit-item-boost-btn {
+		font-size: 9px;
+	}
+
+
+
+	.deposits-help {
+		display: block;
+	}
+
+	.deposits-help-top {
+		display: block;
+		padding-right: 0;
+	}
+
+	.deposits-help-content {
+
+		padding-top: 12px;
+		padding-left: 0;
+		width: 100%;
+	}
+
+	.deposits-help-btn-block {
+		margin-top: 0;
+	}
+
+	.deposits-help-title {
+		text-align: center;
+	}
+
+	.deposits-help-descr {
+		text-align: center;
+		margin-top: 12px;
+	}
+
+	.deposits-help-btn-block {
+		margin-top: 12px;
+	}
+
+	.pagination-block {
+		margin-top: 32px;
+	}
+
+	.deposits-empty-block {
+		background-position: bottom -50px left;
+	}
+
+	.deposits-empty-title {
+		font-size: 20px;
+	}
+
+	.deposits-empty-descr {
+		font-size: 12px;
+	}
+
+
+	.balance-manage-block {
+		padding: 22px 14px;
+		border-radius: 40px;
+		margin-top: 32px;
+	}
+
+	.field-block--amount {}
+
+	.form-note-block {
+		margin-top: 16px;
+	}
+
+	.withdrawal-success-info-inner {
+		flex-direction: column-reverse;
+	}
+
+	.withdrawal-success-info-left {
+		padding-top: 10px;
+	}
+
+
+	.transaction-hash-form-block {
+		margin-top: 16px;
+	}
+
+	.modal-wallet-form-block {
+		margin-top: 24px;
+	}
+
+	.success-add-wallet-chain-block {
+		margin-top: 24px;
+	}
+
+	.wallet-item-heading-wallet-number-block {
+		display: none;
+	}
+
+	.transaction-item-left {
+		flex-wrap: wrap;
+	}
+
+	.transaction-item-id-block {
+		width: 50%;
+	}
+
+	.transaction-item-type-block {
+		width: 100%;
+		margin-top: 12px;
+	}
+
+	.transaction-item-status-block {
+		width: 50%;
+		justify-content: flex-end;
+	}
+
+	.transaction-item-right {
+		flex-wrap: wrap;
+		justify-content: flex-start;
+	}
+
+	.transaction-item-info-block {
+		margin-bottom: 12px;
+		padding-right: 0;
+		width: 100%;
+		order: 1;
+	}
+
+	.transaction-item-manage-links-block {
+		order: 3;
+		width: auto;
+	}
+
+	.transaction-item-more-info-link-block {
+		width: auto;
+		justify-content: flex-start;
+		padding-right: 14px;
+		order: 2;
+		padding-left: 0;
+	}
+
+	.transaction-item {
+		border-radius: 24px;
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+
+
+	.transaction-item-more-info-tooltip {
+		inset: -37px auto auto 50px !important;
+	}
+
+	.transaction-item-more-info-tooltip::before {
+		transform: none;
+		left: -17px;
+		top: 35px;
+		right: auto;
+		background-color: #842DE3;
+	}
+
+	.field--can-copy input[type='text'],
+	.field--can-copy input[type='email'],
+	.field--can-copy input[type='password'] {
+		padding-right: 20px;
+	}
+
+	.db-content-block {
+		padding: 16px;
+	}
+
+	.s-affiliate-top-right {
+		padding-top: 24px;
+	}
+
+	.db-content-block-descr {
+		font-size: 12px;
+	}
+
+	.affiliate-progress-top {
+		display: block;
+		font-size: 12px;
+	}
+
+	.affiliate-progress-top-right {
+		padding-top: 8px;
+	}
+
+	.affiliate-progress-line-block {
+		margin-top: 12px;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.affiliate-programm-t-cols {
+		flex-wrap: wrap;
+	}
+
+	.affiliate-programm-t-col {
+		width: 50%;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-col-inner {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	.affiliate-programm-t-item {box-shadow: none;background: none;}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item::before {
+		display: none;
+	}
+
+	.affiliate-programm-t-col--next-level {
+		padding-left: 0;
+		margin-top: 10px;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-item-title {
+		display: block;
+	}
+
+	.affiliate-programm-t-item {
+		justify-content: space-between;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-item {
+		justify-content: space-between;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item-title {
+		width: auto;
+	}
+
+	.affiliate-programm-t-col--current-level .affiliate-programm-t-item-content {
+		width: auto;
+	}
+
+	.affiliate-programm-t-item {
+		font-size: 9px;
+	}
+
+	.affiliate-programm-t-col--next-level .affiliate-programm-t-item {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.affiliate-programm-t-item-title {
+		font-size: 9px;
+	}
+
+	.partners-stats-block {
+		display: block;
+	}
+
+	.partners-stats-chart-block {
+		width: 118px;
+	}
+
+	.partners-stats-chart-legend-block {
+		width: 100%;
+		margin-top: 24px;
+		padding-left: 0;
+		justify-content: center;
+	}
+
+	.earning-stats-block {
+		display: block;
+	}
+
+	.earning-stats-chart-block {
+		width: 118px;
+	}
+
+	.earning-stats-chart-legend-block {
+		width: 100%;
+		margin-top: 24px;
+		padding-left: 0;
+		justify-content: center;
+	}
+
+	.partners-filter-form-col {
+		width: 100%;
+	}
+
+
+	.partners-help {
+		display: block;
+	}
+
+	.partners-help-top {
+		display: block;
+		padding-right: 0;
+	}
+
+	.partners-help-content {
+
+		padding-top: 12px;
+		padding-left: 0;
+		width: 100%;
+	}
+
+	.partners-help-btn-block {
+		margin-top: 0;
+	}
+
+	.partners-help-title {
+		text-align: center;
+	}
+
+	.partners-help-descr {
+		text-align: center;
+		margin-top: 12px;
+	}
+
+	.partners-help-btn-block {
+		margin-top: 12px;
+	}
+
+	.partner-item-h-view-more-btn-block {
+		position: relative;
+		height: auto;
+		right: auto;
+		left: auto;
+		top: auto;
+		padding-left: 40px;
+		margin-top: 14px;
+	}
+
+	.partner-item-heading {
+		padding-right: 16px;
+	}
+
+	.partner-item-h-right {
+		padding-left: 40px;
+	}
+
+	.partner-item-h-right-inner {
+		margin-right: 0;
+		flex-wrap: wrap;
+	}
+
+	.partner-item-h-left-inner {
+		max-width: 100%;
+	}
+
+	.partner-item-h-total-profit-block {
+		width: 100%;
+		padding-left: 0;
+		margin-top: 14px;
+	}
+
+	.partner-item-h-structure-block {
+		width: 40%;
+		padding-left: 0;
+	}
+
+	.partner-item-h-invested-block {
+		width: 60%;
+		padding-left: 0;
+		padding-right: 10px;
+	}
+
+	.pip-t-heading {
+		display: none;
+	}
+
+	.partner-item-body {
+		padding-right: 4px;
+		padding-bottom: 20px;
+	}
+
+	.partner-item-body-inner {}
+
+	.pip-t-item {
+		flex-wrap: wrap;
+		padding-top: 4px;
+		padding-bottom: 4px;
+	}
+
+	.pip-t-i-col {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding-left: 42px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+	}
+
+	.pip-t-i-col--currency {
+		width: 100%;
+		padding-left: 8px;
+	}
+
+	.pip-t-i-col__title {
+		display: block;
+		font-size: 10px;
+	}
+
+	.db-content-block--balance {}
+
+	.db-content-block--balance .db-content-block-title-block {
+		justify-content: center;
+	}
+
+	.db-content-block--balance .db-content-block-title {
+		padding-right: 0;
+	}
+
+	.db-content-block--balance .db-content-block-descr {
+		text-align: center;
+	}
+
+	.db-content-block--balance .show-more-btn-block {
+		text-align: center;
+	}
+
+	.db-content-block--deposits {}
+
+	.db-content-block--deposits .db-content-block-title-block {
+		flex-direction: column;
+	}
+
+	.db-content-block--deposits .db-content-block-title-to-all-link-block {
+		margin-top: 8px;
+	}
+
+	.deposit-slider-block {
+		margin-top: 52px;
+	}
+
+	.deposit-slide .deposit-item {
+		padding: 16px;
+	}
+
+	.deposit-slider .swiper-button-prev {
+		right: 50%;
+		margin-right: 3px;
+	}
+
+	.deposit-slider .swiper-button-next {
+		right: auto;
+		left: 50%;
+		margin-left: 3px;
+	}
+
+	.deposit-slider {
+		margin-right: -20px;
+		margin-left: -20px;
+	}
+
+	.deposit-slide .deposit-item {
+		background: none;
+		box-shadow: none;
+	}
+
+	.db-content-block--transactions {
+		padding: 0;
+	}
+
+	.dashboard-transactions-block-left {
+		padding: 16px;
+	}
+
+	.db-content-block--transactions .db-content-block-title-block {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.db-content-block--transactions .db-content-block-title {
+		padding-right: 0;
+	}
+
+	.db-content-block-title-to-all-link-block {
+		margin-top: 6px;
+	}
+
+	.dashboard-transactions-block-left .transaction-items-block {
+		margin-top: 8px;
+	}
+
+	.dashboard-sly-token-block-top {
+		width: 100%;
+		max-width: 270px;
+	}
+
+	.dashboard-sly-token-block-bottom {
+		padding-top: 16px;
+	}
+
+	.deposit-create-item-wrapper {
+		width: 100%;
+	}
+
+	.balance-item-wrapper:nth-child(n+5) {
+		display: block;
+	}
+
+
+	.promo-block {
+		padding: 20px 12px;
+		margin-top: 24px;
+	}
+
+	.promo-top-right {
+		padding-top: 14px;
+	}
+
+	.banner-item-right {
+		padding-left: 0;
+	}
+
+	.banner-item-title {
+		font-size: 12px;
+	}
+
+	.banner-item-size {
+		font-size: 12px;
+	}
+
+	.banner-item-link {
+		font-size: 10px;
+	}
+
+	.banner-item-link-block {
+		margin-top: 8px;
+	}
+
+	.banner-item-manage-panel-block {
+		margin-top: 8px;
+	}
+
+	.promo-pdf-item-right {
+		padding-left: 0;
+	}
+
+	.promo-video-item-right {
+		padding-left: 0;
+	}
+
+	.prev-page-link-block {
+		margin-top: 24px;
+	}
+
+	.setting-tab-wrapper {
+		width: auto;
+	}
+
+	.setting-block {
+		padding: 24px 16px;
+	}
+
+	.field--secret-code.field--can-copy .field-copy-btn-block {
+		right: 0;
+	}
+
+	.token-top-param-items-block {
+		display: none;
+	}
+
+	.token-top-left {
+		padding-right: 16px;
+	}
+
+	.token-top-right {
+		padding-left: 16px;
+	}
+
+	.token-top-price {
+		font-size: 12px;
+	}
+
+	.token-top-volume {
+		font-size: 8px;
+		margin-top: 2px;
+	}
+
+	.token-content-center-inner {
+		padding: 16px;
+	}
+
+	.token-content-left {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.token-content-right {
+		width: 100%;
+		padding-left: 0;
+	}
+
+	.balance-item-wrapper {
+		width: 50%;
+	}
+
+	.affiliate-progress-top-right {
+		display: none;
+	}
+
+	.affiliate-progress-next-mobile-block {
+		display: flex;
+		margin-top: 8px;
+
+	}
+
+	.trading-type-info-benefit-item-wrapper {
+		width: 100%;
+	}
+
+	.trading-type-buttons {
+		flex-direction: column;
+	}
+
+	.trading-type-info-video__preview {
+		/* height: 180px; */
+	}
+
+	.trading-type-benefit-item-wrapper {
+		width: 100%;
+	}
+
+	.inv-plan-tab-slider-block {
+		max-width: 236px;
+	}
+
+	.inv-plan-item-wrapper {
+		width: 100%;
+	}
+
+	.inv-plan-items-block {
+		margin-top: 20px;
+	}
+
+	.tr-type-calc-form-data-fieldset .radio-item-wrapper {
+		width: 100%;
+	}
+
+	.currency-icon-radio-item-wrapper:nth-child(n+6) {
+		/* display: none; */
+	}
+
+	.tr-type-calc-form-result {
+		padding: 50px 24px 50px;
+	}
+
+	.tr-type-calc-form-result-title {
+		font-size: 32px;
+	}
+
+	.tr-type-calc-form-result-item-wrapper {
+		width: 100%;
+	}
+
+	.tr-type-calc-form-result-buttons {
+		flex-direction: column;
+	}
+
+	.tr-type-calc-form-result-btn-wrapper {
+		width: 100%;
+	}
+
+	.tr-type-calc-form-result-btn {
+		width: 100%;
+	}
+
+	.other-products-block {
+		padding: 40px 12px 30px;
+	}
+
+	.recent-news-block {
+		padding: 24px;
+	}
+
+	.recent-news-item__img {
+		width: 100%;
+		height: auto;
+		max-height: 300px;
+	}
+	.cta-content{
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.recent-news-item {
+		flex-wrap: wrap;
+	}
+
+	.recent-news-item__content {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 32px;
+		text-align: center;
+	}
+
+	.cta-block {
+		padding: 52px 24px 60px;
+		text-align: center;
+		background-position: top 100px left 50%;
+	}
+
+	.cta-content-title {
+		font-size: 32px;
+	}
+
+	.trading-type-info-benefit-item__text {
+		max-width: 100%;
+	}
+
+	.trading-type-info-benefit-item__text br {
+		display: none;
+	}
+
+	.tr-type-calc-arb-item-inner {
+		padding-left: 60px;
+	}
+
+	.tr-type-calc-arb-item-currency-list-block {
+		padding-right: 4px;
+		width: 40%;
+	}
+
+	.tr-type-calc-arb-item-percent-block {
+		padding-left: 4px;
+		padding-right: 4px;
+		width: 27%;
+	}
+
+	.tr-type-calc-arb-item-time-block {
+		padding-left: 4px;
+		width: 33%;
+	}
+
+	.tr-type-calc-form-data {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.soley-premium-block {
+		padding: 24px;
+		padding-bottom: 66px;
+		border-radius: 40px;
+	}
+
+	.soley-premium-title {
+		font-size: 24px;
+	}
+
+	.soley-premium-buttons {
+		flex-wrap: wrap;
+	}
+
+	.soley-premium-btn-wrapper {
+		width: 100%;
+	}
+
+	.soley-premium-btn {
+		width: 100%;
+	}
+
+	.book-appointment-btn {
+		padding-left: 20px;
+		padding-right: 50px;
+	}
+
+	.soley-premium-graph-item__icon {
+		width: 14px;
+		height: 14px;
+	}
+
+	.soley-premium-graph-item__icon::before {
+		width: 14px;
+		height: 14px;
+		mask-size: 14px 14px;
+		-webkit-mask-size: 14px 14px;
+	}
+
+	.soley-premium-graph-item__text {
+		padding-left: 6px;
+		font-size: 8px;
+	}
+
+	.soley-premium-graph-item {
+		padding: 5px 6px;
+	}
+
+	.soley-premium-graph-block {
+		max-width: 248px;
+	}
+
+	.soley-premium-sign {
+		max-width: 270px;
+		bottom: -8px;
+	}
+
+	.recent-news-content-title {
+		font-size: 32px;
+	}
+
+	.trading-type-benefit-item {
+		padding: 24px;
+	}
+
+	.toppanel-left .topline-lang-panel-block {
+		display: block;
+	}
+
+	.footer-middle-left .footer-soc-block {
+		display: none;
+	}
+
+	.footer-middle-center {
+		padding-top: 24px;
+	}
+
+	.footer-middle-center .footer-soc-block {
+		display: block;
+		margin-top: 28px;
+	}
+
+	.footer-middle-right {
+		padding-top: 24px;
+	}
+
+	.footer-contact-buttons-block {
+		margin-top: 0;
+	}
+
+	.footer-telegram-btn__text {
+		font-size: 10px;
+		padding-right: 0;
+	}
+
+	.footer-telegram-btn {
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		justify-content: center;
+	}
+
+	.footer-telegram-btn__icon {
+		display: none;
+	}
+
+	.footer-mail-btn {
+		font-size: 10px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.footer-bottom-right {
+		padding-top: 10px;
+	}
+
+	.footer-bottom {
+		padding-top: 32px;
+		padding-bottom: 32px;
+	}
+
+	.db-topline-left {
+		min-width: 0;
+	}
+
+	.db-topline .logo-wrapper {
+		margin-right: 0;
+	}
+
+	.db-top-new-dep-btn {
+		padding: 10px 12px;
+	}
+
+	.db-top-new-dep-btn__title {
+		font-size: 9px;
+		line-height: 10px;
+	}
+
+	.db-topline .topline-current-lang {
+		padding: 0;
+		border: 0;
+	}
+
+	.db-topline .topline-current-lang__arrow {
+		width: 8px;
+		height: 8px;
+		transform: translateY(-50%);
+		right: -4px;
+		left: auto;
+	}
+
+	.db-topline .topline-current-lang__arrow::after {
+		width: 8px;
+		height: 8px;
+		background-size: 8px 8px;
+		background-color: #fff;
+		border-radius: 8px;
+	}
+
+	.db-top-new-dep-btn-block {
+		display: block;
+	}
+
+	.db-topline-block {
+		background: linear-gradient(180deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.00) 100%), rgba(255, 255, 255, 0.50);
+	}
+
+	.news-items-block {
+		margin-top: 8px;
+	}
+
+	.news-single-top-top {
+		flex-wrap: wrap;
+	}
+
+	.news-single-top-top-right {
+		padding-left: 30px;
+		margin-top: 32px;
+	}
+
+	.news-single-top-views {
+		font-size: 12px;
+	}
+
+	.news-single-top {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+
+	.news-single-top-top {
+		margin-left: -12px;
+	}
+
+	.news-single-top-top-right {
+		padding-left: 12px;
+	}
+
+	.news-single-top-title {
+		font-size: 24px;
+	}
+
+	.news-single-content-block {
+		margin-top: 0;
+	}
+
+	.news-single-recent-news-top-block {
+		margin-top: 28px;
+	}
+
+	.news-single-recent-news-top {
+		flex-direction: column;
+	}
+
+	.news-single-recent-news-top-left {
+		padding-right: 0;
+	}
+
+	.news-single-recent-news-top-right {
+		padding-left: 0;
+		padding-top: 24px;
+	}
+
+	.news-single-recent-news-items-block {
+		margin-top: 6px;
+	}
+
+	.company-item-img-block {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.company-item-content {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 16px;
+	}
+
+	.contact-support-item {
+		width: 100%;
+		margin-top: 24px;
+	}
+
+	.contact-support-item:first-child {
+		margin-top: 0;
+	}
+
+	.contact-question-link-wrapper {
+		width: 100%;
+	}
+
+	.contact-bottom-block-right {
+		padding-top: 24px;
+	}
+
+	.contact-form-block {
+		padding: 24px;
+		border-radius: 40px;
+	}
+
+	.contact-form .btn-wrapper {
+		margin-top: 24px;
+	}
+
+	.affiliate-front-info-title-block {
+		margin-top: 32px;
+	}
+
+	.affiliate-front-info-title {
+		font-size: 32px;
+	}
+
+	.affiliate-front-info-title .image {
+		max-width: 32px;
+	}
+
+	.affiliate-front-info-descr {
+		margin-top: 32px;
+	}
+
+	.affiliate-front-info-video-block {
+		border-radius: 28px;
+		padding: 14px;
+	}
+
+
+	.affiliate-front-info-video {
+		border-radius: 24px;
+	}
+
+	.affiliate-front-info-video__preview {
+		border-radius: 24px;
+	}
+
+	.affiliate-front-info-video__preview .image {
+		border-radius: 24px;
+	}
+
+	.affiliate-front-info-right {
+		padding-top: 32px;
+	}
+
+	.affiliate-front-partners-block {
+		margin-top: 40px;
+	}
+
+	.affiliate-front-partner-item {
+		height: 32px;
+	}
+
+	.affiliate-front-partner-item .image {
+		height: 100%;
+	}
+
+	.affiliate-front-partner-items {
+		margin-left: -8px;
+		margin-right: -8px;
+	}
+
+	.affiliate-front-partner-item-wrapper {
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.affiliate-front-programm-item {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.affil-info-prog-table-top-info-title {
+		font-size: 24px;
+	}
+
+	.affil-info-prog-table-block {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	.affil-info-prog-table-block--soon {
+		padding-top: 40px;
+	}
+
+	.affil-info-prog-table-soon-label {
+		padding-top: 42px;
+		right: auto;
+		left: 50%;
+		top: -33px;
+		border-radius: 32px;
+		transform: translateX(-50%);
+	}
+
+	.affiliate-reward-block {
+		padding-left: 16px;
+		padding-right: 16px;
+		margin-top: 24px;
+	}
+
+	.affiliate-reward-t-show-btn-block {
+		margin-top: 16px;
+	}
+
+	.affil-info-prog-table-block {
+		margin-top: 32px;
+	}
+
+	.faq-top-content {
+		padding: 24px;
+	}
+
+	.faq-item-heading {
+		padding-right: 20px;
+		padding-bottom: 24px;
+	}
+
+	.faq-item-heading-arrow {
+		position: relative;
+		left: auto;
+		top: auto;
+		right: auto;
+		bottom: auto;
+		margin-top: 10px;
+		transform: none;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.faq-item.active .faq-item-heading-arrow {
+		transform: rotate(180deg);
+	}
+
+
+	.fees-top-content {
+		padding: 24px;
+	}
+
+	.policy-block {
+		padding: 24px;
+	}
+
+
+
+	.mp-one-title-block {
+		margin-top: 32px;
+	}
+
+	.mp-one-title {
+		font-size: 32px;
+	}
+
+	.mp-one-title .image {
+		max-width: 32px;
+	}
+
+	.mp-one-descr {
+		margin-top: 32px;
+	}
+
+	.mp-one-right {
+		padding-top: 32px;
+	}
+
+
+	.mp-about-benefit-item-wrapper {
+		width: 100%;
+	}
+
+	.trading-type-buttons {
+		flex-direction: column;
+	}
+
+	.mp-about-video__preview {
+		/* height: 180px; */
+	}
+
+
+	.mp-one-circle-menu-block {
+		padding-top: 8px;
+		padding-bottom: 20px;
+		padding-left: 52px;
+		padding-right: 52px;
+	}
+
+	.mp-one-circle-menu-link__icon {
+		height: 11px;
+	}
+
+	.mp-one-circle-menu-link__icon .image {
+		height: 11px;
+	}
+
+	.mp-one-circle-menu-link__title {
+		font-size: 8px;
+		margin-top: 5px;
+	}
+
+	.mp-one-circle-menu-link {
+		min-width: 60px;
+		border-radius: 15px;
+		padding: 8px;
+	}
+
+	.mp-one-circle-menu-block {
+		max-width: 296px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon {
+		height: 7px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__icon .image {
+		height: 7px;
+	}
+
+	.mp-one-circle-menu-link--soon .mp-one-circle-menu-link__title {
+		font-size: 5px;
+		margin-top: 3px;
+	}
+
+	.mp-one-circle-menu-link__soon-block {
+		margin-top: 3px;
+	}
+
+	.mp-one-circle-menu-link__soon {
+		font-size: 5px;
+		padding: 2px 3px;
+	}
+
+	.mp-one-circle-menu-link--soon {
+		min-width: 38px;
+	}
+
+	.mp-soley-benefit-item-wrapper {
+		width: 100%;
+		margin-top: 16px;
+		min-height: 0;
+	}
+
+	.mp-soley-benefit-items-block {
+		margin-top: 24px;
+	}
+
+	.mp-about-block {
+		padding: 24px;
+	}
+
+	.mp-about-title {
+		font-size: 24px;
+	}
+
+	.mp-about-descr {
+		font-size: 14px;
+	}
+
+	.mp-about-video {
+		border-radius: 24px;
+	}
+
+	.mp-about-video__preview {
+		border-radius: 24px;
+	}
+
+	.mp-about-video__preview .image {
+		border-radius: 24px;
+	}
+
+	.mp-trading-type-item-video-block {
+		max-width: 296px;
+		margin-right: auto;
+		margin-left: auto;
+		padding: 16px;
+	}
+
+	.mp-trading-type-item-video-block .trading-type-info-video__icon {
+		height: 72px;
+	}
+
+	.mp-trading-type-item-title {
+		font-size: 23px;
+	}
+
+	.mp-trading-type-item-soon-label {
+		font-size: 8px;
+		top: 14px;
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+
+	.mp-companies-top-btn-block {
+		max-width: 100%;
+	}
+
+	.join-block {
+		padding: 32px 16px;
+	}
+
+	.join-top-block .section-title {
+		font-size: 24px;
+	}
+
+	.join-btn-block {
+		margin-top: 32px;
+	}
+
+	.title-intro-sly__img {
+		width: 32px;
+		height: 32px;
+	}
+
+	.ps-item-wrapper {
+		width: 100%;
+		margin-top: 16px;
+	}
+
+	.ps-items-block {
+		margin-top: 16px;
+	}
+
+	.intro-sly-block {
+		padding: 32px 8px 24px;
+	}
+
+	.about-top-benefit-items-block {
+		max-width: 290px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.about-top-descr {
+		font-size: 14px;
+	}
+
+	.about-top-video-block {
+		border-radius: 28px;
+		padding: 14px;
+	}
+
+	.about-top-video {
+		border-radius: 24px;
+	}
+
+	.about-top-video__preview {
+		border-radius: 24px;
+	}
+
+	.about-top-video__preview .image {
+		border-radius: 24px;
+	}
+
+	.team-item-img {
+		/* height: 330px; */
+	}
+
+	.team-item {
+		margin-top: 16px;
+	}
+
+	.team-items-block {
+		margin-top: 24px;
+	}
+
+	.academy-content-top--videos {
+		flex-direction: column;
+	}
+
+	.academy-content-top--videos .academy-content-top-left {
+		padding-right: 0;
+	}
+
+	.academy-content-top--videos .academy-content-title {
+		text-align: center;
+	}
+
+	.academy-top-block {
+		padding: 16px;
+	}
+
+	.academy-video-lesson-item {
+		padding: 16px;
+	}
+
+	.academy-video-lesson-item-bottom {
+		flex-direction: column;
+	}
+
+	.academy-video-lesson-item-bottom-left {
+		padding-right: 0;
+		justify-content: center;
+		width: 100%;
+	}
+
+	.academy-video-lesson-item-bottom-right {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 8px;
+		justify-content: center;
+	}
+
+	.academy-burse-lesson-item {
+		margin-top: 16px;
+	}
+
+	.academy-burse-lesson-items-block {
+		margin-top: 24px;
+	}
+
+	.academy-content-top-right {
+		padding-top: 16px;
+	}
+
+
+	.sly-top-info-benefit-item-wrapper {
+		width: 100%;
+	}
+
+
+	.sly-top-info-video__preview {
+		/* height: 180px; */
+	}
+
+	.sly-top-info .trading-type-btn-wrapper {
+		width: 100%;
+	}
+
+	.sly-top-info .trading-type-btn {
+		width: 100%;
+	}
+
+	.trading-type-trade-btn {
+		min-width: 0;
+	}
+	.cookies-block{
+		max-width: 296px;
+		right: 12px;
+		padding: 16px;
+		padding-top: 16px;
+	}
+	.cookies-close-btn{
+		top: 16px;
+		right: 12px;
+	}
+	.cookies-descr{
+		font-size: 12px;
+	}
+	.cookies-buttons{
+		flex-wrap: wrap;
+	}
+	.cookies-btn-wrapper{
+		width: 100%;
+	}
+	.cookies-btn{
+		width: 100%;
+	}
+	.tr-type-calc-block{
+		border-radius: 32px;
+	}
+	.tr-type-calc-form-data-fieldset .field-title-min-max-block{
+		display: none;
+	}
+	.tr-type-calc-form-data-fieldset .field-title-min-max-block--bottom{
+		display: flex;
+	}
+	.tr-type-calc-form-result{
+		padding: 32px 16px;
+		padding-top: 0;
+	}
+
+	.tr-type-calc-form-result-item-wrapper{
+		width: 50%;
+	}
+	.tr-type-calc-form-result-item__title{
+		font-size: 10px;
+	}
+	.tr-type-calc-form-result-item__descr{
+		font-size: 9px;
+	}
+
+	.affiliate-bonus-progress-top{
+		font-size: 10px;
+	}
+	.affiliate-bonus-progress-bottom{
+		font-size: 12px;
+	}
+
+	.deposit-top-btn{
+		min-width: 240px;
+	}
+	.deposit-top-btn-wrapper--invest{
+		width: 100%;
+	}
+	.deposit-top-btn-wrapper--invest .deposit-top-btn{
+		width: 100%;
+	}
+	.deposit-top-tooltip__tooltip{
+		left: auto;
+		top: 100%;
+		transform: translateY(8px);
+		right: -10px;
+	}
+	.deposit-top-tooltip__tooltip::before{
+		border-color: transparent;
+		border-bottom-color: rgba(0, 0, 0, 0.90);
+		right: 12px;
+		top: auto;
+		transform: none;
+		bottom: 100%;
+	}
+	
+}
+
+
+/* === MOBILE FIRST === */
+
+/* Custom (xs) */
+@media (min-width : 0) {}
+
+/* Small (sm) */
+@media (min-width : 576px) {}
+
+/* Medium (md) */
+@media (min-width : 768px) {}
+
+/* Large (lg) */
+@media (min-width : 992px) {}
+
+/* Extra large (xl) */
+@media (min-width : 1200px) {}
+
+/* Extra extra large (xxl) */
+@media (min-width : 1400px) {}
